@@ -83,7 +83,7 @@ inciso a) Todos los órganos pertenecientes a la administración central, descen
 
 </ul>
 </p>
-
+</details>
 
 <h2 id="formato"> Formato </h2>
 <p>
