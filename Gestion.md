@@ -76,7 +76,7 @@ Secretaría de Planificación,  Evaluación y Coordinación de gestión
 
 </ul>
 </p>
-
+</details>
 
 <h2 id="formato"> Formato </h2>
 <p>
