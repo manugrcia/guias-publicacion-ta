@@ -79,10 +79,9 @@ Establecer links que permitan navegar desde el organigrama general a la informac
 
  | Compromiso | Fecha de cumplimiento |
 | --- | --- |
-| Actualización y validación del listado de áreas dentro del GCBA y sus respectivas vinculaciones jerárquicas |Febrero 2019 |
-| 
-Actualización y validación del listado de autoridades de cada área del GCBA detallando nombre, cargo y fecha de inicio de gestión.|Marzo 2019|
-|Publicación de imagen editable con todas las áreas, siglas y nombre de autoridad máxima en cada caso dentro del portal centralizado www.buenosaires.gob.ar/organigrama  |Abril - Mayo 2019 |
-| Validación trimestral del listado de áreas y  autoridades de cada área del GCBA detallando nombre, cargo y fecha de inicio de gestión.| Mayo  2019|
-| Validación trimestral del listado de áreas y  autoridades de cada área del GCBA detallando nombre, cargo y fecha de inicio de gestión |Agosto 2019 |
-|Validación trimestral del listado de áreas y  autoridades de cada área del GCBA detallando nombre, cargo y fecha de inicio de gestión|Noviembre 2019|
+| Actualización y validación del listado de áreas dentro del GCBA y sus respectivas vinculaciones jerárquicas| Febrero 2019 |
+| Actualización y validación del listado de autoridades de cada área del GCBA detallando nombre, cargo y fecha de inicio de gestión.| Marzo 2019|
+| Publicación de imagen editable con todas las áreas, siglas y nombre de autoridad máxima en cada caso dentro del portal centralizado www.buenosaires.gob.ar/organigrama | Abril - Mayo 2019|
+| Validación trimestral del listado de áreas y  autoridades de cada área del GCBA detallando nombre, cargo y fecha de inicio de gestión. | Mayo  2019|
+| Validación trimestral del listado de áreas y  autoridades de cada área del GCBA detallando nombre, cargo y fecha de inicio de gestión | Agosto 2019|
+| Validación trimestral del listado de áreas y  autoridades de cada área del GCBA detallando nombre, cargo y fecha de inicio de gestión |Noviembre 2019|
