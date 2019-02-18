@@ -192,13 +192,11 @@ La publicación de los antecedentes de funcionarios, las misiones y funciones de
 
  | Compromiso | Fecha de cumplimiento |
 | --- | --- |
-| 
-Armado y validación de la mini biografía y foto institucional del/la funcionario/a con mayor rango dentro del área. 
-| Marzo 2019|
-| Validación de archivos adjuntos en relación a los antecedentes del/la funcionario/a con mayor rango dentro del área | Abril  2019 |
-| Publicación y/o actualización de minbiografía, imagen, archivos adjuntos y datos de contacto de cada funcionario/a en cada portal institucional. | Abril - Mayo 2019 |
-| Validación trimestral de minibiografía, imagen, archivos adjuntos y datos de contacto de cada funcionario/a en cada portal institucional. | Agosto  2019|
-| Validación trimestral de minibiografía, imagen, archivos adjuntos y datos de contacto de cada funcionario/a en cada portal institucional | Noviembre 2019|
+| Armado y validación de la mini biografía y foto institucional del/la funcionario/a con mayor rango dentro del área. | Marzo 2019 |
+| Validación de archivos adjuntos en relación a los antecedentes del/la funcionario/a con mayor rango dentro del área | Abril  2019|
+| Publicación y/o actualización de minbiografía, imagen, archivos adjuntos y datos de contacto de cada funcionario/a en cada portal institucional.| Abril - Mayo 2019 |
+| Validación trimestral de minibiografía, imagen, archivos adjuntos y datos de contacto de cada funcionario/a en cada portal institucional.| Agosto  2019 |
+| Validación trimestral de minibiografía, imagen, archivos adjuntos y datos de contacto de cada funcionario/a en cada portal institucional | Noviembre 2019  |
 
  
 
