@@ -1,4 +1,4 @@
-<h1> Información acerca de Declaraciones Juradas</h2> 
+<h1> Información acerca de Concursos de Personal</h2> 
 <h3>  Contenido del documento: </h3> 
 <ol>
  <li><a href="#marco">Marco normativo</a></li>
