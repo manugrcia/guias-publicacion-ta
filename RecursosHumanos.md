@@ -1,4 +1,4 @@
-<h1> Información acerca de Recursos Humanos</h2> 
+<h1> Información acerca de Nómina de Autoridades y Personal</h2> 
 <h3>  Contenido del documento: </h3> 
 <ol>
  <li><a href="#marco">Marco normativo</a></li>
