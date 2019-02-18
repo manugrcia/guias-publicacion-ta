@@ -195,7 +195,7 @@ La publicación de los antecedentes de funcionarios, las misiones y funciones de
 | 
 Armado y validación de la mini biografía y foto institucional del/la funcionario/a con mayor rango dentro del área. 
 | Marzo 2019|
-| Validación de archivos adjuntos en relación a los antecedentes del/la funcionario/a con mayor rango dentro del área| Abril  2019 |
+| Validación de archivos adjuntos en relación a los antecedentes del/la funcionario/a con mayor rango dentro del área | Abril  2019 |
 | Publicación y/o actualización de minbiografía, imagen, archivos adjuntos y datos de contacto de cada funcionario/a en cada portal institucional. | Abril - Mayo 2019 |
 | Validación trimestral de minibiografía, imagen, archivos adjuntos y datos de contacto de cada funcionario/a en cada portal institucional. | Agosto  2019|
 | Validación trimestral de minibiografía, imagen, archivos adjuntos y datos de contacto de cada funcionario/a en cada portal institucional | Noviembre 2019|
@@ -258,7 +258,7 @@ Inclusión de un desglose en lenguaje coloquial y párrafos breves (aproximadame
 <h2 id="perio3"> Periodicidad de actualización</h2>
 <p>Eventual.</p>
 
-<h2 id="valid">Periodicidad de validación</h2>
+<h2 id="valid3">Periodicidad de validación</h2>
 
 <p>Semestral</p>
 
@@ -267,7 +267,7 @@ Inclusión de un desglose en lenguaje coloquial y párrafos breves (aproximadame
 </h4>
  
 
-<h2 id="ubicacion"> Ubicación de la publicación</h2>
+<h2 id="ubicacion3"> Ubicación de la publicación</h2>
 <p>La publicación de las misiones y funciones del área y su respectivo marco normativo deberá hacerse en el portal institucional de cada ministerio. 
 
 Por ejemplo:
@@ -276,7 +276,7 @@ Por ejemplo:
 
 </p>
 
-<h2 id="compromisos">  Compromisos de publicación</h2>
+<h2 id="compromisos3">  Compromisos de publicación</h2>
 
  | Compromiso | Fecha de cumplimiento |
 | --- | --- |
