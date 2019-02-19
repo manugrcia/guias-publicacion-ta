@@ -14,7 +14,7 @@
  
 <h2 id="marco">Marco normativo</h2>  
 <p>
-AArtículo 18: Plan de Transparencia Activa: Los sujetos obligados por el Artículo 3° incisos a), b), c), d), e), g)y h) deberán publicar en sus respectivas páginas web, de manera completa y actualizada y en lo posible en formatos abiertos y reutilizables, la siguiente información:
+Artículo 18: Plan de Transparencia Activa: Los sujetos obligados por el Artículo 3° incisos a), b), c), d), e), g)y h) deberán publicar en sus respectivas páginas web, de manera completa y actualizada y en lo posible en formatos abiertos y reutilizables, la siguiente información:
 
 Inciso k) “Descripción de la política institucional, de los programas en curso y los planes de acción”.
 
@@ -27,52 +27,30 @@ Artículo 3°.- Sujetos obligados: Serán sujetos obligados a brindar informaci�
 
 inciso a) Todos los órganos pertenecientes a la administración central, descentralizada, entes autárquicos u organismos interjurisdiccionales integrados por la Ciudad Autónoma de Buenos Aires.
 
-
-</p>
-
-<p>Áreas clave para implementación de compromisos
-Secretaría de Planificación,  Evaluación y Coordinación de gestión 
-
 </p>
 
 <h2 id="contenidos"> Contenidos mínimos de publicación </h2> 
-<p>Los siguientes campos de PIG son considerados como elementos mínimos de publicación:
+<p>Los siguientes campos son considerados como elementos mínimos de publicación:
 </p>
 <details><summary> Ver Listado de ítems a publicar </summary>
 <p>
 <ul>
 
-<li>Jurisdicción</li>
-
-<li>ID proyecto</li>
-
-<li>Nombre de Proyecto</li>
-
-<li>Objetivo estratégico</li>
-
-<li>Objetivo operativo</li>
-
-<li>Descripción de Proyecto</li>
-
-<li>Responsable</li>
-
-<li>Área</li>
-
-<li>Organismos corresponsables</li>
-
-<li>Tipo de proyecto</li>
-
-<li>Meta</li>
-
-<li>Unidad de la Meta</li>
-
-<li>Presupuesto aprobado total</li>
-
-<li>Última fecha inicio</li>
-
-<li>Última fecha fin</li>
-
-<li>Segmento de la población</li>
+|	Ítem	|
+|		------------- |
+|	Jurisdicción	|
+|	ID proyecto	|
+|	Nombre de Proyecto	|
+|	Objetivo estratégico	|
+|	Objetivo operativo	|
+|	Descripción de Proyecto	|
+|	Área	|
+|	Organismos corresponsables	|
+|	Tipo de proyecto	|
+|	Unidad de la Meta	|
+|	Presupuesto aprobado total	|
+|	Última fecha inicio	|
+|	Última fecha fin	|
 
 </ul>
 </p>
@@ -96,8 +74,6 @@ Formato CSV o XML
  </br>
 
 </p>
-
-<h2 id="compromisos">  Compromisos de publicación</h2>
 
 <!-- | Compromiso | Fecha de cumplimiento |
 | --- | --- |
