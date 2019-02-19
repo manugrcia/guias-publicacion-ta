@@ -1,4 +1,4 @@
-<h1> Información acerca de Trámites y Servicios</h2> 
+<h1> Información acerca de Trámites y Servicios</h1> 
 <h3>  Contenido del documento: </h3> 
 <ol>
  <li><a href="#marco">Marco normativo</a></li>
