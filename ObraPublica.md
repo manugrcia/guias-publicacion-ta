@@ -47,22 +47,21 @@ Cada proceso de compra efectuado por medio de los procedimientos antes mencionad
 |	Número de contratación	|
 |	Nombre del proyecto	|
 |	Descripción del objeto de la contratación	|
-|	Jurisdicción	|
-|	Unidad operativa de adquisiciones	|
+|	Jurisdicción de la Unidad Ejecutora	|
+|	Jurisdicción de la Unidad operativa de adquisiciones	|
 |	Localización de la obra	|
-|	Tipo de proceso de la contratación	|
+|	Tipo de procedimiento de la contratación	|
 |	Tipo de modalidad de la contratación	|
 |	Estado del proceso de compra	|
 |	Fuente de financiamiento	|
 |	Autorización de la convocatoria a seleccionar contratante y aprobación del pliego de bases y condiciones particulares	|
-|	Llamado a Licitación Pública	|
-|	Pliegos de bases y condiciones generales, particulares y sus modificatorias en caso de existir	|
+|	Acto administrativo del llamado	|
+|	Pliegos de bases y condiciones generales, particulares y especificaciones técnicas	|
 |	Acta de apertura de ofertas	|
 |	Ofertas	|
-|	Dictamen de evaluación y la correspondiente resolución	|
+|	Dictamen de evaluación y acta de preadjudicación	|
 |	Comisión evaluadora	|
-|	Acta de preadjudicación	|
-|	Adjudicación	|
+|	Acto administrativo de adjudicación	|
 |	Costo final proyectado	|
 |	Costo final de la obra	|
 |	Contrata	|
