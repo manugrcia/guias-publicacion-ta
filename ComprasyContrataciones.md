@@ -1,4 +1,4 @@
-<h1> Información acerca de Compras y Contrataciones de Bienes y Servicios</h2> 
+<h1> Compras y Contrataciones de Bienes y Servicios</h2> 
 <h3>  Contenido del documento: </h3> 
 <ol>
  <li><a href="#marco">Marco normativo</a></li>
