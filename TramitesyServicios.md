@@ -34,19 +34,20 @@ Secretaría de Atención y Gestión Ciudadana, Jefatura de Gabinete GCABA.
 
 <h2 id="contenidos"> Contenidos mínimos de publicación </h2> 
 <details><summary> Ver Listado de ítems a publicar </summary>
-<p>
-<ul>
-<li>nombre del trámite o servicio,</li> 
-<li>breve descripción del mismo, </li>
-<li>requisitos necesarios para realizarlo,</li>
-<li>Protocolos de atención o pasos a seguir para realizarlo (dónde y en qué horario se realiza, si es necesario sacar turno previo o es de presentación espontánea, si se puede hacerlo online o por sistema de Tramitación a Distancia/TAD, quienes pueden/deben realizar dicho trámite, en caso de que haya alguna constancia/certificado/documento a retirar: cómo, cuándo y dónde se retira, cómo finaliza el trámite, etc.)</li>
-<li>Datos de contacto del organismo responsable del trámite (nombre del organismo, dirección física, teléfono de contacto, mail de contacto, web del área)</li>
-<li>Información sobre el pago del Trámite, de ser necesario: Arancel (si se trata de un trámite gratuito, se debe aclarar que es gratuito), y medios y formas de pago (online, si es con tarjetas de crédito, qué tarjetas y si se puede pagar en cuotas, hasta cuantas), si se puede pagar en Rapipago/pagofácil, etc.</li>
-<li>Si hay normativa u otros archivos importantes que las áreas quieran que los vecinos se descarguen de la guía, deben enviarse en formato PDF.</li>
-<li>Datos adicionales importantes a destacar que las áreas consideren y que no estén contemplados dentro de lo anterior.</li>
-<li>Información sobre vías de reclamos.</li>
 
-</ul></details>
+|	Ítem	|
+|		------------- |
+| nombre del trámite o servicio,    |
+| breve descripción del mismo, |
+| requisitos necesarios para realizarlo, |
+| Protocolos de atención o pasos a seguir para realizarlo (dónde y en qué horario se realiza, si es necesario sacar turno previo o es de presentación espontánea, si se puede hacerlo online o por sistema de Tramitación a Distancia/TAD, quienes pueden/deben realizar dicho trámite, en caso de que haya alguna constancia/certificado/documento a retirar: cómo, cuándo y dónde se retira, cómo finaliza el trámite, etc.) |
+| Datos de contacto del organismo responsable del trámite (nombre del organismo, dirección física, teléfono de contacto, mail de contacto, web del área) |
+| Información sobre el pago del Trámite, de ser necesario: Arancel (si se trata de un trámite gratuito, se debe aclarar que es gratuito), y medios y formas de pago (online, si es con tarjetas de crédito, qué tarjetas y si se puede pagar en cuotas, hasta cuantas), si se puede pagar en Rapipago/pagofácil, etc. |
+| Si hay normativa u otros archivos importantes que las áreas quieran que los vecinos se descarguen de la guía, deben enviarse en formato PDF. |
+| Datos adicionales importantes a destacar que las áreas consideren y que no estén contemplados dentro de lo anterior.|
+| Información sobre vías de reclamos. |
+
+</details>
 
 <h2 id="formato"> Formato </h2>
 <p>
