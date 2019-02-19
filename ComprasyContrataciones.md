@@ -25,18 +25,12 @@ Inciso e) El listado de adquisiciones de bienes y servicios u obras públicas qu
 <p>
 Artículo 3°.- Sujetos obligados: Serán sujetos obligados a brindar información pública según los términos de esta Ley:
 
-inciso a) Todos los órganos pertenecientes a la administración central, descentralizada, entes autárquicos u organismos interjurisdiccionales integrados por la Ciudad Autónoma de Buenos Aires;
+inciso a) Todos los órganos pertenecientes a la administración central, descentralizada, entes autárquicos u organismos interjurisdiccionales integrados por la Ciudad Autónoma de Buenos Aires.
 
 
 
 </p>
 
-<p>Áreas clave para implementación de compromisos
-<ul>
-  <li>DG Compras y Contrataciones - Ministerio de Economía y Finanzas </li>
-<li>DG Calidad Institucional y Gobierno Abierto - Secretaría General y Relaciones Internacionales </li>
-</ul>
-</p>
 
 <h2 id="contenidos"> Contenidos mínimos de publicación </h2> 
 <p>Se deberá publicar información correspondiente a los siguientes procedimientos enmarcados en la Ley 2095:
@@ -54,31 +48,32 @@ inciso a) Todos los órganos pertenecientes a la administración central, descen
 <p>
 <ul>
 
-<li>Número de la contratación</li>
-<li>Nombre de la contratación</li>
-<li>Descripción del objeto de la contratación</li>
-<li>Jurisdiccion (Unidad Ejecutora)</li>
-<li>Jurisdicción de la Unidad Operativa de Adquisiciones</li>
-<li>Tipo de proceso de compra</li>
-<li>Tipo de modalidad</li>
-<li>Estado del proceso de compra</li>
-<li>Acto administrativo del llamado (cuando corresponda)</li>
-<li>Pliegos de bases y condiciones generales y particulares </li>
-<li>Acta de apertura de ofertas </li>
-<li>Ofertas</li>
-<li>Dictamen de evaluación/ acta de preadjudicación</li>
-<li>Comisión evaluadora</li>
-<li>Acto administrativo de adjudicación</li>
-<li>Contrato</li>
-<li>Monto del contrato</li>
-<li>Fecha de inicio de la contratación</li>
-<li>Fecha de finalización de la contratación</li>
-<li>Actos administrativos de las ampliaciones y prórrogas </li>
-<li>Actualizaciones de precios en los Convenios Marco y sus actos administrativos</li>
-<li>Solicitud formal de la redeterminación de precios y actos administrativos a través de los cuales se aprueba o niega</li>
-<li>Razón social del proveedor</li>
-<li>CUIT del proveedor</li>
-<li>Datos de contacto de la entidad contratante</li>
+|	Ítem	|
+|		------------- |
+|	Número de la contratación	|
+|	Nombre de la contratación	|
+|	Descripción del objeto de la contratación	|
+|	Jurisdiccion de la Unidad Ejecutora	|
+|	Jurisdicción de la Unidad Operativa de Adquisiciones	|
+|	Tipo de proceso de compra	|
+|	Tipo de modalidad	|
+|	Estado del proceso de compra	|
+|	Acto administrativo del llamado (cuando corresponda)	|
+|	Pliegos de bases y condiciones generales y particulares	|
+|	Acta de apertura de ofertas	|
+|	Ofertas	|
+|	Dictamen de evaluación y acta de preadjudicación	|
+|	Comisión evaluadora	|
+|	Acto administrativo de adjudicación	|
+|	Contrato	|
+|	Monto del contrato	|
+|	Fecha de inicio de la contratación	|
+|	Fecha de finalización de la contratación	|
+|	Actos administrativos de las ampliaciones y prórrogas 	|
+|	Actualizaciones de precios en los Convenios Marco y sus actos administrativos	|
+|	Razón social del proveedor	|
+|	CUIT del proveedor	|
+|	Datos de contacto de la entidad contratante	|
 
 
 </ul>
@@ -101,18 +96,16 @@ Los contenidos deberán estar disponibles en formato abierto (XLS, XLSV, CSV)
 
 <p>Normas y políticas que regulan la adquisición de bienes y servicios financiadas con créditos, préstamos y donaciones de Organismos internacionales. 
 
-Véase: <a href="http://pubdocs.worldbank.org/en/6911459454616485/Procurement-GuidelinesSpanishJuly12014.pdf">http://pubdocs.worldbank.org/en/6911459454616485/Procurement-GuidelinesSpanishJuly12014.pdf</a>
-<a href="http://idbdocs.iadb.org/wsdocs/getdocument.aspx?docnum=774396">http://idbdocs.iadb.org/wsdocs/getdocument.aspx?docnum=774396</a> </p>
+</p>
 
 <h2 id="ubicacion"> Ubicación de la publicación</h2>
 <p>
 <a href="https://data.buenosaires.gob.ar/">https://data.buenosaires.gob.ar/ </a>
+ 
 <a href="https://www.buenosairescompras.gob.ar/">https://www.buenosairescompras.gob.ar/ </a>  
  </br>
 
 </p>
-
-<h2 id="compromisos">  Compromisos de publicación</h2>
 
 <!-- | Compromiso | Fecha de cumplimiento |
 | --- | --- |
