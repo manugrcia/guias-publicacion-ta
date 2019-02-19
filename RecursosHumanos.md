@@ -1,4 +1,4 @@
-<h1> Información acerca de Sueldos de Autoridades y Escala Salarial de Personal</h2> 
+<h1> Sueldos de Autoridades y Escala Salarial de Personal</h2> 
 <h3>  Contenido del documento: </h3> 
 <ol>
  <li><a href="#marco">Marco normativo</a></li>
@@ -8,8 +8,7 @@
  <li><a href="#formato">Formato</a></li>
  <li><a href="#perio">Periodicidad de actualización</a></li>
  <li><a href="#ubicacion">Ubicación de la publicación</a></li>
- <li><a href="#compromisos">Compromisos de publicación</a></li>
- 
+
  
 </ol>
  
@@ -33,13 +32,6 @@ inciso a) Todos los órganos pertenecientes a la administración central, descen
 
 </p>
 
-<p>Áreas clave para implementación de compromisos
-<ul>
-  <li>Subsecretaría de Gestión de Recursos Humanos - Ministerio de Economía y Finanzas</li>
-<li>DG Calidad Institucional y Gobierno Abierto - Secretaría Internacional y Relaciones Internacionales</li>
- <ul>
-
-</p>
 
 <h2 id="contenidos"> Contenidos mínimos de publicación para escalas salariales </h2> 
 <p>La información de “Escalas salariales” deberá contener como mínimo la grilla salarial correspondiente al personal de los regímenes de planta permanente y de planta transitoria. La información deberá estar desagregada por: 
@@ -47,40 +39,44 @@ inciso a) Todos los órganos pertenecientes a la administración central, descen
 </p>
 <details><summary> Ver Listado de ítems a publicar </summary>
 <p>
-<ul>
+ 
+|	Ítem	|
+|		------------- |
+|	Agrupamiento	|
+|	Actividades de Asistencia a la Salud y Apoyo Social 	|
+|	Actividades Artísticas y Escenotécnicas	|
+|	Atención al Ciudadano	|
+|	Emergencias	|
+|	Gestión gubernamental	|
+|	Inspección y verificación	|
+|	Servicios generales y Mantenimiento	|
+|	Tecnologías de la información y las comunicaciones	|
+|	Tramos	|
+|	Avanzado	|
+|	Medio 	|
+|	Inicial	|
+|	Grado	|
+|	Conceptos salariales	|
+|	Sueldo Básico NCA	|
+|	Fondo de Garantía NCA	|
+|	Suplemento Fijo Mensual NCA	|
+|	Adicionales por categoría	|
 
-<li><b>Agrupamiento:</b> Conjunto de puestos cuyas funciones son caracterizadas por una misma naturaleza o finalidad. 
-Actividades de Asistencia a la Salud y Apoyo Social 
-Actividades Artísticas y Escenotécnicas
-Atención al Ciudadano
-Emergencias
-Gestión gubernamental
-Inspección y verificación
-Servicios generales y Mantenimiento
-Tecnologías de la información y las comunicaciones</li>
-<li><b>Tramos:</b> niveles determinados en función de la complejidad de la tarea, experiencia y competencias requeridas.
-Avanzado
-Medio 
-Inicial</li>
-<li><b>Grado:</b> escala definida según la experiencia y mérito del empleado que sirve a los efectos de su promoción.
-Conceptos salariales
-Sueldo Básico NCA
-Fondo de Garantía NCA
-Suplemento Fijo Mensual NCA
-Adicionales por categoría
-</li>
-
-</ul>
 </p>
 </details>
 
 <h2 id="auto"> Contenidos mínimos de publicación para sueldos de autoridades </h2> 
-La información de “Sueldos de autoridades” correspondientes al Jefe de Gobierno, Vicejefe de Gobierno, Jefe de Gabinete de Ministros, Ministros, Secretarios, Subsecretarios, Síndico General de la CABA, Procurador General de la CABA y Directores Generales, o funcionarios públicos de nivel jerárquico equivalente deberá estar desagregada por:
-<ul>
-  <li>Sueldo bruto</li>
-<li>Descuentos correspondientes a jubilación y obra social</li>
-  <li>Descuentos correspondientes al Impuesto a las Ganancias </li>
-</ul>
+<p>La información de “Sueldos de autoridades” correspondientes al Jefe de Gobierno, Vicejefe de Gobierno, Jefe de Gabinete de Ministros,  Ministros, Secretarios, Subsecretarios, Síndico General de la CABA, Procurador General de la CABA y Directores Generales, o funcionarios públicos de nivel jerárquico equivalente deberá estar desagregada por:
+</p>
+<p>
+
+|	Ítem	|
+|		------------- |
+|	Sueldo bruto	|
+|	Descuentos correspondientes a jubilación y obra social	|
+|	Descuentos correspondientes al Impuesto a las Ganancias	|
+
+</p>
 
 <h2 id="formato"> Formato </h2>
 <p>
@@ -101,11 +97,5 @@ Formato CSV o XML
 
 </p>
 
-<h2 id="compromisos">  Compromisos de publicación</h2>
-
-| Compromiso | Fecha de cumplimiento |
-| --- | --- |
-| Publicación de grilla salarial en formato abierto correspondiente a los años 2017 y 2018 |Marzo 2019 |
-| Publicación de grilla salarial en formato abierto correspondiente al 2019 |Marzo en adelante |
 
 
