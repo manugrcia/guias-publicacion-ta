@@ -46,6 +46,7 @@ inciso a) Todos los órganos pertenecientes a la administración central, descen
 |	Área	|
 |	Organismos corresponsables	|
 |	Tipo de proyecto	|
+|	Meta	|
 |	Unidad de la Meta	|
 |	Presupuesto aprobado total	|
 |	Última fecha inicio	|
