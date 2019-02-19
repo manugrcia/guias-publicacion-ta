@@ -1,4 +1,4 @@
-<h1> Información acerca de Declaraciones Juradas</h2> 
+<h1> Declaraciones Juradas</h2> 
 <h3>  Contenido del documento: </h3> 
 <ol>
  <li><a href="#marco">Marco normativo</a></li>
@@ -7,8 +7,7 @@
  <li><a href="#formato">Formato</a></li>
  <li><a href="#perio">Periodicidad de actualización</a></li>
  <li><a href="#ubicacion">Ubicación de la publicación</a></li>
- <li><a href="#compromisos">Compromisos de publicación</a></li>
- 
+  
  
 </ol>
  
@@ -44,24 +43,9 @@ En concordancia con la Ley N° 4895/13, los sujetos obligados comprendidos en el
 
 </p>
 
-<p>Áreas clave para implementación de compromisos
-<ul>
-  <li>Dirección de Ética en el Ejercicio de la Función Pública - SECLYT </li>
-<li> Dirección General Calidad Institucional y Gobierno Abierto - Secretaría General y Relaciones Internacionales </li>
-  <li> Dirección General Gobierno Digital y Sensorización - Ministerio de Educación e Innovación </li>
-</ul>
-</p>
 
 <h2 id="contenidos"> Contenidos mínimos de publicación </h2> 
 <p>El contenido de la declaración jurada patrimonial que será objeto de publicación en la página web oficial del Gobierno de la Ciudad Autónoma de Buenos Aires, deberá cumplir con lo dispuesto por el artículo N° 16 de la Ley N° 4895/13. Acorde a lo estipulado por la normativa en vigencia, la declaración jurada patrimonial de los sujetos comprendidos deberá contener los siguientes ítems informativos: 
-<ul>
-  <li>Licitación o Concurso Público</li> 
-<li>Licitación o Concurso Privado </li>        
-<li>Contratación directa</li> 
-<li>Contratación menor   </li>          
-<li>Remate o subasta pública   </li>  
-  </ul>
-  Cada proceso de compra efectuado por medio de los procedimientos antes mencionados deberá contar con los siguientes contenidos:
 
 </p>
 <details><summary> Ver Listado de ítems a publicar </summary>
@@ -122,14 +106,5 @@ Números de cuentas corriente, cajas de ahorro, cajas de seguridad y tarjetas de
 </p>
 
 <h2 id="compromisos">  Compromisos de publicación</h2>
-
- | Compromiso | Fecha de cumplimiento |
-| --- | --- |
-| Publicación en datos abiertos de los contenidos mínimos correspondientes al presente tipo de información (ciclo 2017)  de funcionarios de la administración central del Poder Ejecutivo y organismos de control interno con rango de: Secretarios, Subsecretarios, Directores Generales o jerarquía equivalente y miembros de las Juntas comunales | |
-| Publicación en datos abiertos de los contenidos mínimos correspondientes al presente tipo de información (ciclo 2017) de funcionarios de los organismos descentralizados, entidades autárquicas, las empresas y sociedades del Estado con rango de: directivos, síndicos, integrantes del directorio | |
-| Publicación en datos abiertos de los contenidos mínimos correspondientes al presente tipo de información (ciclo 2017) de: los integrantes de comisiones de evaluación de ofertas o de adjudicación en licitaciones públicas o privadas de compra o contratación de bienes o servicios en que intervenga la Ciudad; el Jefe de la Policía de la Ciudad y los funcionarios policiales de la misma con rango superior a Comisario; y el Jefe del Cuerpo Bomberos de la Ciudad y los funcionarios integrantes del mismo con grado superior a Comandante  | |
-| Publicación en la plataforma web de Declaraciones Juradas patrimoniales de los contenidos mínimos correspondientes al presente tipo de información (ciclo 2017) de los funcionarios con rango de: Jefe de Gobierno, Vicejefe de Gobierno, Jefe de Gabinete, Procurador General de la CABA, Síndica General de la CABA, Ministros, Secretarios, Subsecretarios, Directores Generales o jerarquía equivalente y miembros de las Juntas comunales | |
-| Incorporación de botón de acceso a plataforma de Declaraciones Juradas y dataset de Declaraciones Juradas en las páginas web institucionales correspondientes a cada Ministerio, Secretaría, organismo descentralizado, entidades autárquicas, empresas y sociedades del Estado. | |
-| Publicación de dos de los tipos de “Información adicional. Buenas prácticas” en datos abiertos |Enero 2020 |
 
 
