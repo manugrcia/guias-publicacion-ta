@@ -45,7 +45,7 @@ En concordancia con la Ley N° 4895/13, los sujetos obligados comprendidos en el
 |	Jefe del Cuerpo Bomberos de la Ciudad y los funcionarios integrantes del mismo con grado superior a Comandante	|
 
 </p>
-
+</details>
 
 <h2 id="contenidos"> Contenidos mínimos de publicación </h2> 
 <p>El contenido de la declaración jurada patrimonial que será objeto de publicación en la página web oficial del Gobierno de la Ciudad Autónoma de Buenos Aires, deberá cumplir con lo dispuesto por el artículo N° 16 de la Ley N° 4895/13. Acorde a lo estipulado por la normativa en vigencia, la declaración jurada patrimonial de los sujetos comprendidos deberá contener los siguientes ítems informativos: 
