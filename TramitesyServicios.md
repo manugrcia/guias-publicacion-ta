@@ -65,11 +65,4 @@ Enviar información para agregar/actualizar a través del sistema de tickets NOC
 
 <h2 id="compromisos">  Compromisos de publicación</h2>
 
-| Compromiso | Fecha de cumplimiento |
-| --- | --- |
-| Listado | |
-| Pliego | |
-| Tipo de contratación | |
-| Certificados de aptitud ambiental | |
-| Incorporar AUSA, IVC | |
 
