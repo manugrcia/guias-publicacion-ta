@@ -22,24 +22,27 @@ Inciso m) “Declaraciones Juradas de funcionarios públicos de acuerdo a la Ley
 <p>
 Artículo 3°.- Sujetos obligados: Serán sujetos obligados a brindar información pública según los términos de esta Ley:
 
-inciso a) Todos los órganos pertenecientes a la administración central, descentralizada, entes autárquicos u organismos interjurisdiccionales integrados por la Ciudad Autónoma de Buenos Aires;
+inciso a) Todos los órganos pertenecientes a la administración central, descentralizada, entes autárquicos u organismos interjurisdiccionales integrados por la Ciudad Autónoma de Buenos Aires.
 
 En concordancia con la Ley N° 4895/13, los sujetos obligados comprendidos en el inciso m) del artículo 18, cuya declaración jurada patrimonial deberá publicarse en la página web oficial del Gobierno de la Ciudad Autónoma de Buenos Aires son: 
- 
-<ul>
-  <li>El Jefe/a y Vice-Jefe/a de Gobierno; </li>
-<li>Ministros, Secretarios, Subsecretarios, Directores Generales o equivalentes del Poder Ejecutivo y los titulares de los entes descentralizados;</li>
-<li>Los miembros de las Juntas Comunales;</li>
-<li>El Síndico General;</li>
-<li>El Procurador General y sus adjuntos, los Directores Generales de la Procuración, el personal con categoría no inferior a director o equivalente del personal de dichos organismos;</li>
-<li>Los Directores, el Síndico, el Gerente General y Subgerente General del Banco de la Ciudad de Buenos Aires;</li>
-<li>Toda persona que integre comisiones de evaluación de ofertas o de adjudicación en licitaciones públicas o privadas de compra o contratación de bienes o servicios en que intervenga la Ciudad;</li>
-<li>Las personas que integren los organismos de control internos del Gobierno de la Ciudad Autónoma de Buenos Aires, con categoría no inferior a la de Director General;</li>
-<li>Los directivos, síndicos e integrantes de los directorios de los organismos descentralizados, entidades autárquicas, las empresas y sociedades del Estado; </li>
-<li>El Jefe de la Policía de la Ciudad y los funcionarios policiales de la misma con rango superior a Comisario; y </li>
-<li>El Jefe del Cuerpo Bomberos de la Ciudad y los funcionarios integrantes del mismo con grado superior a Comandante. </li>
-</ul>
 
+</p>
+<details><summary> Ver Listado de sujetos obligados </summary>
+<p>
+ 
+|	Sujeto obligado	|
+|		------------- |
+|	El Jefe/a y Vice-Jefe/a de Gobierno	|
+|	Ministros, Secretarios, Subsecretarios, Directores Generales o equivalentes del Poder Ejecutivo y los titulares de los entes descentralizados	|
+|	Miembros de las Juntas Comunales	|
+|	Síndico General	|
+|	Procurador General y sus adjuntos, los Directores Generales de la Procuración, el personal con categoría no inferior a director o equivalente del personal de dichos organismo	|
+|	Los Directores, el Síndico, el Gerente General y Subgerente General del Banco de la Ciudad de Buenos Aires	|
+|	Integrantes de comisiones de evaluación de ofertas o de adjudicación en licitaciones públicas o privadas de compra o contratación de bienes o servicios en que intervenga la Ciudad	|
+|	Integrantes de los organismos de control internos del Gobierno de la Ciudad Autónoma de Buenos Aires, con categoría no inferior a la de Director General	|
+|	Directivos, síndicos e integrantes de los directorios de los organismos descentralizados, entidades autárquicas, las empresas y sociedades del Estado	|
+|	Jefe de la Policía de la Ciudad y los funcionarios policiales de la misma con rango superior a Comisario	|
+|	Jefe del Cuerpo Bomberos de la Ciudad y los funcionarios integrantes del mismo con grado superior a Comandante	|
 
 </p>
 
@@ -50,25 +53,24 @@ En concordancia con la Ley N° 4895/13, los sujetos obligados comprendidos en el
 </p>
 <details><summary> Ver Listado de ítems a publicar </summary>
 <p>
-<ul>
+ 
+|	Ítem	|
+|		------------- |
+|	Bienes inmuebles, y las mejoras que se hayan realizado sobre los mismos. Deberá consignarse: valor, fecha de adquisición, y origen de los fondos aplicados a cada adquisición	|
+|	Bienes muebles registrables. Deberá consignarse: valor, fecha de adquisición, y origen de los fondos aplicados a cada adquisición	|
+|	Otros bienes muebles que tengan un valor individual superior a diez mil (10.000) unidades fijas de compra o que determinados en su conjunto superen las cuarenta mil (40.000) unidades fijas de compra, conforme a la Ley 2095. Deberá consignarse: valor, fecha de adquisición, y origen de los fondos aplicados a cada adquisición	|
+|	Bienes inmuebles y bienes muebles registrables de los que no siendo titulares de dominio o propietarios los obligados, tengan la posesión, tenencia, uso, goce, usufructo por cualquier título, motivo o causa. En este caso deberán detallarse datos personales completos de los titulares de dominio o propietarios; título, motivo o causa por el que se poseen, usan, gozan o usufructúan los bienes; tiempo, plazo o período de uso; si se ostentan a título gratuito u oneroso y cualquier otra circunstancia conducente a esclarecer la relación de los obligados con los bienes. Adicionalmente deberá consignarse: valor, fecha de adquisición de los bienes, y origen de los fondos aplicados a cada adquisición	|
+|	Capital invertido en títulos de crédito, acciones y demás valores cotizables o no en bolsa, o en explotaciones personales o societaria	|
+|	Monto de los depósitos en bancos u otras entidades financieras, de ahorro, de inversión y provisionales, nacionales o extranjeras, con indicación del país de radicación de las cuentas, tenencias de dinero en efectivo en moneda nacional o extranjera	|
+|	Créditos y deudas hipotecarias, prendarias o comunes	|
+|	Ingresos derivados del trabajo en relación de dependencia o del ejercicio de actividades independientes o profesionales	|
+|	Ingresos derivados de rentas o de sistemas previsionale	|
+|	Importe total anual de los ingresos, de cualquier tipo, que se verificaron durante el año que se declara	|
+|	Monto de los bienes o fondos involucrados en los fideicomisos de los que participe como fideicomitente o fideicomisario o beneficiario	|
+|	Cualquier otro tipo de ingreso anual, especificando su origen	|
+|	Antecedentes laborales y profesionales de los últimos dos años, sean o no rentados, incluyendo los que realizare al momento de su designación de los funcionarios mencionados en el título i)) cuyo acceso a la función no sea un resultado directo del sufragio universal	|
 
-<li>Bienes inmuebles, y las mejoras que se hayan realizado sobre los mismos. Deberá consignarse: valor, fecha de adquisición, y origen de los fondos aplicados a cada adquisición;</li>
-<li>Bienes muebles registrables. Deberá consignarse: valor, fecha de adquisición, y origen de los fondos aplicados a cada adquisición;</li>
-<li>Otros bienes muebles que tengan un valor individual superior a diez mil (10.000) unidades fijas de compra o que determinados en su conjunto superen las cuarenta mil (40.000) unidades fijas de compra, conforme a la Ley 2095. Deberá consignarse: valor, fecha de adquisición, y origen de los fondos aplicados a cada adquisición; </li>
-<li>Bienes inmuebles y bienes muebles registrables de los que no siendo titulares de dominio o propietarios los obligados, tengan la posesión, tenencia, uso, goce, usufructo por cualquier título, motivo o causa. En este caso deberán detallarse datos personales completos de los titulares de dominio o propietarios; título, motivo o causa por el que se poseen, usan, gozan o usufructúan los bienes; tiempo, plazo o período de uso; si se ostentan a título gratuito u oneroso y cualquier otra circunstancia conducente a esclarecer la relación de los obligados con los bienes. Adicionalmente deberá consignarse: valor, fecha de adquisición de los bienes, y origen de los fondos aplicados a cada adquisición;</li>
-<li>Capital invertido en títulos de crédito, acciones y demás valores cotizables o no en bolsa, o en explotaciones personales o societarias;</li>
-<li>Monto de los depósitos en bancos u otras entidades financieras, de ahorro, de inversión y provisionales, nacionales o extranjeras, con indicación del país de radicación de las cuentas, tenencias de dinero en efectivo en moneda nacional o extranjera.</li>
-<li>Créditos y deudas hipotecarias, prendarias o comunes;</li>
-<li>Ingresos derivados del trabajo en relación de dependencia o del ejercicio de actividades independientes o profesionales;</li>
-<li>Ingresos derivados de rentas o de sistemas previsionales;</li>
-<li>Importe total anual de los ingresos, de cualquier tipo, que se verificaron durante el año que se declara;</li>
-<li>Monto de los bienes o fondos involucrados en los fideicomisos de los que participe como fideicomitente o fideicomisario o beneficiario;</li>
-<li>Cualquier otro tipo de ingreso anual, especificando su origen;</li>
-<li>Antecedentes laborales y profesionales de los últimos dos años, sean o no rentados, incluyendo los que realizare al momento de su designación de los funcionarios mencionados en el título i)) cuyo acceso a la función no sea un resultado directo del sufragio universal.
-</li>
 
-
-</ul>
 </p>
 </details>
 
@@ -104,7 +106,3 @@ Números de cuentas corriente, cajas de ahorro, cajas de seguridad y tarjetas de
  </br>
 
 </p>
-
-<h2 id="compromisos">  Compromisos de publicación</h2>
-
-
