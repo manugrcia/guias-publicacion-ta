@@ -44,6 +44,8 @@ inciso a) Todos los órganos pertenecientes a la administración central, descen
 
 </details>
 <p>
+
+</br>
 Para cada elemento, discriminar la siguiente información: 
 <ul>
 <li>Nombre o razón social del/la titular;</li>
