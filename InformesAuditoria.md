@@ -18,9 +18,6 @@ Artículo 18: Plan de Transparencia Activa: Los sujetos obligados por el Artícu
 
 Inciso h): “Los informes finales de auditorías internas o externas”
 
-
-
-
 </p>
 <h2 id="obligados"> ¿Quiénes están obligados a publicar esta información?</h2> 
 <p>
@@ -37,17 +34,6 @@ inciso f) Organizaciones Empresariales, Sindicatos y Organizaciones Sindicales, 
 inciso g) Instituciones o fondos cuya administración, guarda o conservación esté a cargo de la Ciudad Autónoma de Buenos Aires; 
 
 inciso h) Fideicomisos constituidos total o parcialmente con recursos o bienes de la Ciudad Autónoma de Buenos Aires; Empresas y Sociedades del Estado, Sociedades Anónimas con participación estatal mayoritaria, Sociedades de Economía Mixta y todas aquellas otras organizaciones empresariales donde el Estado de la Ciudad Autónoma de Buenos Aires tenga participación en el capital o en la formación de las decisiones societarias, 
-
-
-</p>
-
-<p>Áreas clave para implementación de compromisos
-<ul>
-<li>Sindicatura General de la CABA</li>
-<li>Unidades de Auditoría Interna de cada jurisdicción</li>
-<li>Dirección General Gobierno Digital y Sensorización - Subsecretaría de Ciudad Inteligente - Ministerio de Educación e Innovación</li>
-</ul>
-
 </p>
 
 <h2 id="contenidos"> Contenidos mínimos de publicación </h2> 
