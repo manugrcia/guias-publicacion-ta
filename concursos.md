@@ -1,4 +1,4 @@
-<h1> Información acerca de Concursos de Personal</h2> 
+<h1> Concursos de Personal</h2> 
 <h3>  Contenido del documento: </h3> 
 <ol>
  <li><a href="#marco">Marco normativo</a></li>
@@ -8,8 +8,7 @@
  <li><a href="#perio">Periodicidad de actualización</a></li>
   <li><a href="#valid">Periodicidad de validación</a></li>
  <li><a href="#ubicacion">Ubicación de la publicación</a></li>
- <li><a href="#compromisos">Compromisos de publicación</a></li>
- 
+  
  
 </ol>
  
@@ -25,54 +24,42 @@ Punto V: “Eje Recursos Humanos: nómina de autoridades y personal; escalas sal
 <p>
 Artículo 3°.- Sujetos obligados: Serán sujetos obligados a brindar información pública según los términos de esta Ley:
 
-inciso a) Todos los órganos pertenecientes a la administración central, descentralizada, entes autárquicos u organismos interjurisdiccionales integrados por la Ciudad Autónoma de Buenos Aires;
+inciso a) Todos los órganos pertenecientes a la administración central, descentralizada, entes autárquicos u organismos interjurisdiccionales integrados por la Ciudad Autónoma de Buenos Aires.
 
 
-</p>
-
-<p>Áreas clave para implementación de compromisos
-<ul>
-  <li>Subsecretaría de Gestión de Recursos Humanos, dependiente del Ministerio de Economía y Finanzas;</li>
-<li>Procuración General de la Ciudad Autónoma de Buenos Aires;</li>
-<li>Ministerio de Salud;</li>
-<li>Ministerio de Educación e Innovación.</li>
- </li>
-</ul>
 </p>
 
 <h2 id="contenidos"> Contenidos mínimos de publicación </h2> 
 <p>Los concursos de personal correspondientes al Escalafón general y al Régimen Gerencial, deberán contener:
  <details><summary> Ver Listado de ítems a publicar </summary>
 
-<ul>
-  <li>Nombre del cargo a concursar</li>  
-<li>Ministerio/ Secretaría </li>  
-<li>Subsecretaría </li>  
-<li>Dirección General</li>  
-<li>Descripción de funciones </li>  
-<li>Fecha de apertura</li>  
-<li>Fecha de cierre</li>  
-<li>Requisitos</li>  
-<li>Integrantes del comité de selección </li>  
-<li>Estado del concurso</li>  
-<li>Resolución que aprueba llamado a concurso </li>  
-<li>Acta de cierre de inscripción, listado de inscriptos, admitidos,  y no admitidos, fecha de examen (cuando corresponda)</li>  
-<li>Acta con puntajes de exámenes y nómina de postulantes ausentes (cuando corresponda)</li>  
-<li>Acta con puntajes obtenidos en la evaluación de antecedentes, orden de mérito parcial y nómina de postulantes convocados a entrevista personal</li>  
-<li>Acta con puntajes obtenidos en las entrevistas personales / puntajes de orden de mérito definitivo;</li>  
-<li>Prórroga del plazo de identificación y evaluación de candidatos (cuando corresponda);</li>  
-<li>Acto administrativo aprobatorio de designación</li>  
-<li>Recusación o excusación de miembros del Comité de selección (cuando corresponda)</li>  
-<li>Resolución favorable de impugnación (cuando corresponda)</li>  
-<li>Acto administrativo con declaración de concurso desierto o fracasado (cuando corresponda);</li>  
-<li>Repartición responsable u órgano rector del Concurso;</li>  
-<li>Datos de contacto;</li>  
-<li>Guía completa con instructivo del proceso de concurso, presentación de documentación personal, instructivo de examen escrito, instructivo de entrevista personal, criterios de asignación de puntajes y criterios de selección para postulantes;</li>  
-<li>Normativa vinculada al proceso. 
-</li>  
-  </ul>
-  Cada proceso de compra efectuado por medio de los procedimientos antes mencionados deberá contar con los siguientes contenidos:
-
+|	Ítem	|
+|		------------- |
+|	Nombre del cargo a concursar	|
+|	Ministerio/ Secretaría	|
+|	Subsecretaría	|
+|	Dirección General	|
+|	Descripción de funciones	|
+|	Fecha de apertura	|
+|	Fecha de cierre	|
+|	Requisitos	|
+|	Integrantes del comité de selección	|
+|	Estado del concurso	|
+|	Resolución que aprueba llamado a concurso	|
+|	Acta de cierre de inscripción, listado de inscriptos, admitidos, y no admitidos, fecha de examen (cuando corresponda)	|
+|	Acta con puntajes de exámenes y nómina de postulantes ausentes (cuando corresponda)	|
+|	Acta con puntajes obtenidos en la evaluación de antecedentes, orden de mérito parcial y nómina de postulantes convocados a entrevista personal	|
+|	Acta con puntajes obtenidos en las entrevistas personales / puntajes de orden de mérito definitivo	|
+|	Prórroga del plazo de identificación y evaluación de candidatos (cuando corresponda)	|
+|	Acto administrativo aprobatorio de designación	|
+|	Recusación o excusación de miembros del Comité de selección (cuando corresponda)	|
+|	Resolución favorable de impugnación (cuando corresponda)	|
+|	Acto administrativo con declaración de concurso desierto o fracasado (cuando corresponda)	|
+|	Repartición responsable u órgano rector del Concurso	|
+|	Datos de contacto	|
+|	Guía completa con instructivo del proceso de concurso, presentación de documentación personal, instructivo de examen escrito, instructivo de entrevista personal, criterios de asignación de puntajes y criterios de selección para postulantes	|
+|	Normativa vinculada al proceso	|
+ 
 </p>
 
 </details>
@@ -83,7 +70,7 @@ Los contenidos mínimos deberán estar disponibles en formato digital y en forma
 
 </p>
 <h2 id="perio"> Periodicidad de actualización</h2>
-<p>Eventual.</p>
+<p>Eventual</p>
 <h2 id="valid"> Periodicidad de validación</h2>
 <p>Trimestral</p>
 
@@ -106,15 +93,4 @@ La publicación de los concursos de personal en formato abierto deberá estar en
  </br>
 
 </p>
-
-<h2 id="compromisos">  Compromisos de publicación</h2>
-
- | Compromiso | Fecha de cumplimiento |
-| --- | --- |
-| Hipervinculación de portales de concursos existentes para facilitar la búsqueda  | Febrero 2019 |
-| Desarrollo y publicación de Guía completa (instructivos); normativa y datos de contacto en portal de Concursos del escalafón general | Marzo/Abril 2019  |
-| Publicación en datos abiertos de la información sobre concursos desde (...) hasta la actualidad |Abril/Mayo 2019 |  
-| Incorporación de BA Accesible para facilitar la navegabilidad del portal de Concursos |Junio/Julio 2019 |
-
-
 
