@@ -42,7 +42,7 @@ inciso a) Todos los órganos pertenecientes a la administración central, descen
  
 |	Ítem	|
 |		------------- |
-|	Agrupamiento	|
+|	<b>Agrupamiento</b>	|
 |	Actividades de Asistencia a la Salud y Apoyo Social 	|
 |	Actividades Artísticas y Escenotécnicas	|
 |	Atención al Ciudadano	|
@@ -51,12 +51,12 @@ inciso a) Todos los órganos pertenecientes a la administración central, descen
 |	Inspección y verificación	|
 |	Servicios generales y Mantenimiento	|
 |	Tecnologías de la información y las comunicaciones	|
-|	Tramos	|
+|	<b>Tramos</b>	|
 |	Avanzado	|
 |	Medio 	|
 |	Inicial	|
-|	Grado	|
-|	Conceptos salariales	|
+|	<b>Grado</b>	|
+|	<b>Conceptos salariales</b>	|
 |	Sueldo Básico NCA	|
 |	Fondo de Garantía NCA	|
 |	Suplemento Fijo Mensual NCA	|
