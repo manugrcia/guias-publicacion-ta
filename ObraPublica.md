@@ -99,9 +99,7 @@ Autónoma de Buenos Aires. </p>
 <p>Normas y políticas que regulan la adquisición de obras financiadas con créditos, préstamos y donaciones de 
 Organismos internacionales. 
 
-Véase: <a href=">http://pubdocs.worldbank.org/en/6911459454616485/Procurement-GuidelinesSpanishJuly12014.pdf">http://pubdocs.worldbank.org/en/6911459454616485/Procurement-GuidelinesSpanishJuly12014.pdf</a>
- </br>
- <a href="http://idbdocs.iadb.org/wsdocs/getdocument.aspx?docnum=774396">http://idbdocs.iadb.org/wsdocs/getdocument.aspx?docnum=774396 </a></p>
+</p>
 
 <h2 id="ubicacion"> Ubicación de la publicación</h2>
 <p>
