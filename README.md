@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="style.css">
+
 <h1> Guía de publicación de Transparencia Activa</h1>
 
 <p>El propósito de este documento es darte herramientas para cumplir con las obligaciones de Transparencia Activa 
