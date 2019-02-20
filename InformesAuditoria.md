@@ -29,7 +29,7 @@ inciso d) Comunas, Procuración General de la Ciudad Autónoma de Buenos Aires, 
 
 inciso e) Entidades públicas no estatales en todo aquello que estuviese regulado por derecho público, y en lo que se refiere a la información producida o relacionada con fondos públicos; 
 
-| inciso f) Organizaciones Empresariales, Sindicatos y Organizaciones Sindicales, Partidos Políticos, Institutos Educativos y cualquier otra entidad a las que se les haya otorgado subsidios o aportes del Gobierno de la Ciudad Autónoma de Buenos Aires; | 
+inciso f) Organizaciones Empresariales, Sindicatos y Organizaciones Sindicales, Partidos Políticos, Institutos Educativos y cualquier otra entidad a las que se les haya otorgado subsidios o aportes del Gobierno de la Ciudad Autónoma de Buenos Aires;
 
 inciso g) Instituciones o fondos cuya administración, guarda o conservación esté a cargo de la Ciudad Autónoma de Buenos Aires; 
 
