@@ -37,15 +37,10 @@ inciso h) Fideicomisos constituidos total o parcialmente con recursos o bienes d
 </p>
 
 <h2 id="contenidos"> Contenidos mínimos de publicación </h2> 
-<p>Informes finales de auditoría elaborados por la Sindicatura General de la Ciudad Autónoma de Buenos Aires y por las Unidades de Auditoría Interna dependientes del Poder Ejecutivo de la CABA.
- 
-Los informes finales están compuestos de:
 <ul>
-<li>Informe ejecutivo </li>
-<li>Informe analítico </li>
+<li> Informes finales de auditoría elaborados por la Sindicatura General de la Ciudad Autónoma de Buenos Aires y por las Unidades de Auditoría Interna dependientes del Poder Ejecutivo de la CABA. Los informes finales están compestos del informe ejecutivo y del informe analítico. </li>
+<li> Informes finales elaborados por la Auditoría General de la Ciudad Autónoma de Buenos Aires. </li>
 </ul>
-Informes finales elaborados por la Auditoría General de la Ciudad Autónoma de Buenos Aires.
-
 </p>
 
 <h2 id="formato"> Formato </h2>
