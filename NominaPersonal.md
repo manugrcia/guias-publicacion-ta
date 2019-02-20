@@ -22,7 +22,7 @@ Inciso b) “La nómina de autoridades y personal que preste servicios en los su
 <p>
 Artículo 3°.- Sujetos obligados: Serán sujetos obligados a brindar información pública según los términos de esta Ley:
 
-inciso a) Todos los órganos pertenecientes a la administración central, descentralizada, entes autárquicos u organismos interjurisdiccionales integrados por la Ciudad Autónoma de Buenos Aires;
+inciso a) Todos los órganos pertenecientes a la administración central, descentralizada, entes autárquicos u organismos interjurisdiccionales integrados por la Ciudad Autónoma de Buenos Aires.
 
 
 
