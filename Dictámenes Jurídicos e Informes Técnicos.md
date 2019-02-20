@@ -1,4 +1,4 @@
-<h1> Normativa</h1> 
+<h1> Dictámenes Jurídicos e Informes Técnicos</h1> 
 <h3>  Contenido del documento: </h3> 
 <ol>
  <li><a href="#marco">Marco normativo</a></li>
