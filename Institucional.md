@@ -1,6 +1,5 @@
 <h1> Información Institucional</h2> 
 <h3>  Contenido del documento: </h3> 
-<h3>  Organigrama </h3> 
 
 <h2 id="marco">Marco normativo</h2>  
 <p>
@@ -32,8 +31,6 @@ Inciso a) “Su estructura orgánica, funciones, e información institucional”
 </ol>
 <h3>  Antecedentes de funcionarios </h3> 
 <ol>
- <li><a href="#marco2">Marco normativo</a></li>
- <li><a href="#obligados2">¿Quiénes están obligados a publicar esta información?</a></li>
  <li><a href="#contenidos2">Contenidos mínimos de publicación</a></li>
  <li><a href="#formato2">Formato</a></li>
  <li><a href="#perio2">Periodicidad de actualización</a></li>
@@ -45,8 +42,6 @@ Inciso a) “Su estructura orgánica, funciones, e información institucional”
 </ol>
  <h3>  Misiones, funciones y marco normativo del área  </h3> 
 <ol>
- <li><a href="#marco">Marco normativo</a></li>
- <li><a href="#obligados">¿Quiénes están obligados a publicar esta información?</a></li>
  <li><a href="#contenidos">Contenidos mínimos de publicación</a></li>
  <li><a href="#formato">Formato</a></li>
  <li><a href="#perio">Periodicidad de actualización</a></li>
