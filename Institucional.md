@@ -2,7 +2,6 @@
 <h3>  Contenido del documento: </h3> 
 <h3>  Organigrama </h3> 
 
-<h2> Organigrama </h2> 
 <h2 id="marco">Marco normativo</h2>  
 <p>
 Artículo 18: Plan de Transparencia Activa: Los sujetos obligados por el Artículo 3° incisos a), b), c), d), e), g)y h) deberán publicar en sus respectivas páginas web, de manera completa y actualizada y en lo posible en formatos abiertos y reutilizables, la siguiente información:
@@ -20,8 +19,9 @@ Inciso a) “Su estructura orgánica, funciones, e información institucional”
 
 </p>
 
-<ol>
+<h2> Organigrama </h2> 
 
+<ol>
  <li><a href="#contenidos">Contenidos mínimos de publicación</a></li>
  <li><a href="#formato">Formato</a></li>
  <li><a href="#perio">Periodicidad de actualización</a></li>
