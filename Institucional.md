@@ -1,9 +1,27 @@
 <h1> Información Institucional</h2> 
 <h3>  Contenido del documento: </h3> 
 <h3>  Organigrama </h3> 
+
+<h2> Organigrama </h2> 
+<h2 id="marco">Marco normativo</h2>  
+<p>
+Artículo 18: Plan de Transparencia Activa: Los sujetos obligados por el Artículo 3° incisos a), b), c), d), e), g)y h) deberán publicar en sus respectivas páginas web, de manera completa y actualizada y en lo posible en formatos abiertos y reutilizables, la siguiente información:
+
+Inciso a) “Su estructura orgánica, funciones, e información institucional”.
+</p>
+<h2 id="obligados"> ¿Quiénes están obligados a publicar esta información?</h2> 
+<p>
+<ul>
+<li>Órganos pertenecientes a la administración central, entes autárquicos u organismos interjurisdiccionales que se encuentren bajo la órbita del Poder Ejecutivo de la Ciudad Autónoma de Buenos Aires</li>
+<li>Procuración General de la Ciudad</li>
+<li>Sindicatura General de la Ciudad Autónoma de Buenos Aires</li>
+<li>Comunas, en su carácter de unidades de gestión política y administrativa descentralizadas</li>
+</ul>
+
+</p>
+
 <ol>
- <li><a href="#marco">Marco normativo</a></li>
- <li><a href="#obligados">¿Quiénes están obligados a publicar esta información?</a></li>
+
  <li><a href="#contenidos">Contenidos mínimos de publicación</a></li>
  <li><a href="#formato">Formato</a></li>
  <li><a href="#perio">Periodicidad de actualización</a></li>
@@ -38,28 +56,6 @@
  
  
 </ol>
-
-<h2> Organigrama </h2> 
-<h2 id="marco">Marco normativo</h2>  
-<p>
-Artículo 18: Plan de Transparencia Activa: Los sujetos obligados por el Artículo 3° incisos a), b), c), d), e), g)y h) deberán publicar en sus respectivas páginas web, de manera completa y actualizada y en lo posible en formatos abiertos y reutilizables, la siguiente información:
-
-Inciso a) “Su estructura orgánica, funciones, e información institucional”.
-
-
-
-
-</p>
-<h2 id="obligados"> ¿Quiénes están obligados a publicar esta información?</h2> 
-<p>
-<ul>
-<li>Órganos pertenecientes a la administración central, entes autárquicos u organismos interjurisdiccionales que se encuentren bajo la órbita del Poder Ejecutivo de la Ciudad Autónoma de Buenos Aires</li>
-<li>Procuración General de la Ciudad</li>
-<li>Sindicatura General de la Ciudad Autónoma de Buenos Aires</li>
-<li>Comunas, en su carácter de unidades de gestión política y administrativa descentralizadas</li>
-</ul>
-
-</p>
 
 <p>Áreas clave para implementación de compromisos
 Todas 
