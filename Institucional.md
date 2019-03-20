@@ -51,11 +51,6 @@ Inciso a) “Su estructura orgánica, funciones, e información institucional”
  
 </ol>
 
-<p>Áreas clave para implementación de compromisos
-Todas 
-
-</p>
-
 <h2 id="contenidos"> Contenidos mínimos de publicación </h2> 
 <p>Organigrama completo del área desde el nivel de ministros hasta el nivel de directores generales, señalando nombre completo y siglas de la repartición, nivel jerárquico y nombre de la autoridad máxima en cada caso. Señalar, en caso en que hubiere, aquellos organismos fuera de nivel dentro del área en cuestión. 
 
