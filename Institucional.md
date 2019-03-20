@@ -1,5 +1,4 @@
 <h1> Información Institucional</h2> 
-<h3>  Contenido del documento: </h3> 
 
 <h2 id="marco">Marco normativo</h2>  
 <p>
