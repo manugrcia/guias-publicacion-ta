@@ -1,4 +1,4 @@
-<h1> Información acerca de Informesde Auditoría Interna</h2> 
+<h2>Informes de Auditoría</h2> 
 <h3>  Contenido del documento: </h3> 
 <ol>
  <li><a href="#marco">Marco normativo</a></li>
@@ -38,7 +38,8 @@ inciso h) Fideicomisos constituidos total o parcialmente con recursos o bienes d
 
 <h2 id="contenidos"> Contenidos mínimos de publicación </h2> 
 <ul>
-<li> Informes finales de auditoría elaborados por la Sindicatura General de la Ciudad Autónoma de Buenos Aires y por las Unidades de Auditoría Interna dependientes del Poder Ejecutivo de la CABA. Los informes finales están compestos del informe ejecutivo y del informe analítico. </li>
+<li> Informes finales de auditoría (Informe ejecutivo e informe analítico) elaborados por la Sindicatura General de la Ciudad Autónoma de Buenos Aires. </li>
+<li> Informes finales de auditoría (Informe ejecutivo e informe analítico) elaborados por las Unidades de Auditoría Interna dependientes del Poder Ejecutivo de la CABA. </li>
 <li> Informes finales elaborados por la Auditoría General de la Ciudad Autónoma de Buenos Aires. </li>
 </ul>
 </p>
@@ -49,10 +50,12 @@ Digital - PDF
 
 </p>
 <h2 id="perio"> Periodicidad de actualización</h2>
-<p>Anual.
-
-Los informes finales se publicarán en un lapso de 40 días hábiles posteriores a su comunicación a la autoridad superior.
+<p>
+semestral.
 </p>
+
+<h4>¡Atención! La publicación de este tipo de información tiene una excepción parcial ya que los informes contienen datos personales sensibles, confidenciales y protegidos por la normativa vigente.
+</h4>
 
 <h3>Fundamento jurídico de la excepción</h3>
  <p> Protección de datos personales sensibles:
@@ -70,10 +73,6 @@ Secreto estadístico:
 Confidencialidad sobre información comercial:
 <a href="https://www.conicet.gov.ar/wp-content/uploads/Ley-N%C2%BA-24766-Confidencialidad.pdf">Ley N° 24.766/96</a>
   <p>
-  
-<h4>¡Atención! La publicación de este tipo de información tiene una excepción parcial ya que los informes contienen datos personales sensibles, confidenciales y protegidos por la normativa vigente.
-</h4>
- 
 
 <h2 id="ubicacion"> Ubicación de la publicación</h2>
 <p>Los informes finales elaborados por la Sindicatura General deberán estar alojados de manera centralizada en el siguiente dominio:
@@ -83,24 +82,6 @@ Los informes finales elaborados por las Unidades de Auditoría Interna deberán 
 
 
 Los informes finales elaborados por la Auditoría General de la CABA deberán estar alojados de manera centralizada en los dominios correspondientes a las páginas de área de cada jurisdicción con jerarquía de Ministerio, Secretaría u organismo fuera de nivel, dependiendo del caso. Ejemplo de página de área:<a href="http://www.buenosaires.gob.ar/gobierno">http://www.buenosaires.gob.ar/gobierno </a>
-
-
-
-
- </br>
-
+</br>
 </p>
-
-<h2 id="compromisos">  Compromisos de publicación</h2>
-
-| Compromiso | Fecha de cumplimiento |
-| --- | --- |
-| Hipervinculación de los informes finales de la AGCABA en las páginas de área de cada jurisdicción | Marzo 2019 |
-| Publicación de informes ejecutivos de auditorías elaboradas por la Sindicatura General de la CABA -periodo enero 2017 hasta diciembre 2018. | Abril - Mayo 2019 |
-| Publicación de informes ejecutivos de auditorías elaboradas por las Unidades de Auditoría Interna -periodo enero 2017 hasta diciembre 2018 |Julio - Agosto 2019 |
-| Publicación de informes analíticos de auditorías elaboradas por la Sindicatura General de la CABA -periodo enero 2017 hasta diciembre 2018. |Octubre  2019 |
-| Publicación de informes analíticos de auditorías elaboradas por las  Unidades de Auditoría Interna -periodo enero 2017 hasta diciembre 2018. |Noviembre 2019 |
-| Publicación de planes de acciones correctivas de auditorías correspondientes al periodo  enero 2017 hasta diciembre 2018. |Noviembre 2019 |
-| Publicación de informes finales de auditoría completos (informe ejecutivo e informe analítico) correspondientes al periodo enero 2019 - diciembre 2019 | Diciembre 2019 - Febrero 2020 |
-
 
