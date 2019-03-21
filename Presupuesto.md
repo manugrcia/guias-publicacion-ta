@@ -1,4 +1,4 @@
-<h1> Información acerca de Presupuesto</h2> 
+<h2>Presupuesto</h2> 
 <h3>  Contenido del documento: </h3> 
 <ol>
  <li><a href="#marco">Marco normativo</a></li>
@@ -64,11 +64,7 @@ La información contemplada deberá presentarse con el siguiente nivel de desagr
 <li>Gasto por Clasificación Económica 
 <li>Gasto por Jurisdicción, Unidad Ejecutora y Programa
 <li>Gasto por Organismo
-<li>Gasto por Objeto (inciso y principal);
-<li>Gastos por Finalidad y Función;
-<li>Gasto por Ubicación Geográfica;
 <li>Gasto por Origen del Financiamiento
-<li>Recursos por Tipo, Clase, Concepto y Subconcepto;
 <li>Recursos por Jurisdicción.
 </ul>
 </p>
