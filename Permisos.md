@@ -1,4 +1,4 @@
-<h1> Permisos</h1> 
+<h1> Permisos de obra</h1> 
 <h3>  Contenido del documento: </h3> 
 <ol>
  <li><a href="#marco">Marco normativo</a></li>
@@ -23,7 +23,7 @@ titulares, especificando nombre o razón social del/la titular; objeto de la con
 </p>
 <h2 id="obligados"> ¿Quiénes están obligados a publicar esta información?</h2> 
 <p>
-AArtículo 3°.- Sujetos obligados: Serán sujetos obligados a brindar información pública según los términos de esta Ley:
+Artículo 3°.- Sujetos obligados: Serán sujetos obligados a brindar información pública según los términos de esta Ley:
 
 inciso a) Todos los órganos pertenecientes a la administración central, descentralizada, entes autárquicos u organismos interjurisdiccionales integrados por la Ciudad Autónoma de Buenos Aires.
 
@@ -37,10 +37,13 @@ inciso a) Todos los órganos pertenecientes a la administración central, descen
 
 |	Ítem	|
 |		------------- |
-| Permisos de uso |
-|Permisos de obra |
-|Habilitaciones|
-|Otros Permisos y Habilitaciones|
+| Nombre o razón social del titular del permiso |
+| Tipo de obra |
+|Zonificación|
+|Metros cuadrados|
+|Ubicación de la obra|
+|Fecha de otorgamiento|
+|Duración|
 
 </details>
 <p>
