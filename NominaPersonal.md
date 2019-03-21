@@ -61,10 +61,8 @@ Los contenidos deberán estar disponibles en formato abierto (XLS, XLSV, CSV)
 <h2 id="perio"> Periodicidad de actualización</h2>
 <p>Mensual</p>
 
-<h4>¡Atención! La publicación de la información puede tener excepciones parciales
+<h4>¡Atención! La publicación de este tipo de información no tiene excepción, dado que no contiene datos personales sensibles, confidenciales o protegidos por la normativa vigente.
 </h4>
- <p>La publicación de este tipo de información no tiene excepción, dado que no contiene datos personales sensibles, confidenciales o protegidos por la normativa vigente.</p>
-
 
 <h2 id="ubicacion"> Ubicación de la publicación</h2>
 <p>
