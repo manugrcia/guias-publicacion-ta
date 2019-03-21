@@ -39,7 +39,7 @@ inciso a) Todos los órganos pertenecientes a la administración central, descen
 
 |	Ítem	|
 |		------------- |
-|	Nombre o razón social del/la titular;|
+|	Nombre o razón social del/la titular|
 |Objeto de la concesión|
 |Ubicación de la concesión|
 |Estado|
