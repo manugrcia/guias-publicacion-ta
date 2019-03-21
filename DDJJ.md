@@ -101,8 +101,7 @@ Números de cuentas corriente, cajas de ahorro, cajas de seguridad y tarjetas de
 
 <h2 id="ubicacion"> Ubicación de la publicación</h2>
 <p>
-<a href="https://data.buenosaires.gob.ar/datasets?query=declaraciones%20juradas">https://data.buenosaires.gob.ar/datasets?query=declaraciones%20juradas </a>
-<a href="https://www.buenosaires.gob.ar/jefedegobierno/legalytecnica/declaraciones-juradas">https://www.buenosaires.gob.ar/jefedegobierno/legalytecnica/declaraciones-juradas </a>
-
-
+<ul>
+<li><a href="https://data.buenosaires.gob.ar/datasets?query=declaraciones%20juradas">https://data.buenosaires.gob.ar/datasets?query=declaraciones%20juradas </a></li>
+<li><a href="https://www.buenosaires.gob.ar/jefedegobierno/legalytecnica/declaraciones-juradas">https://www.buenosaires.gob.ar/jefedegobierno/legalytecnica/declaraciones-juradas </a></li>
 </p>
