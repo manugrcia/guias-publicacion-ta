@@ -1,4 +1,4 @@
-<h1> Información Institucional</h2> 
+<h1>Institucional</h1> 
 
 <h2 id="marco">Marco normativo</h2>  
 <p>
