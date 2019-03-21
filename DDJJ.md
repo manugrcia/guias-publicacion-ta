@@ -93,7 +93,7 @@ Números de cuentas corriente, cajas de ahorro, cajas de seguridad y tarjetas de
   <li>Individualización (con inclusión de nombre, apellido, tipo y número de documento, razón social, CUIT/CUIL/CDI) de aquellas sociedades, fundaciones, asociaciones, explotaciones, fondos comunes de inversión, fideicomisos u otros en las que se declare cualquier tipo de participación o inversión, acciones o cuotas partes y/o se hayan obtenido ingresos durante el año declarado;</li>
 <li>Los datos de individualización (con inclusión de nombre, apellido, tipo y número de documento, razón social, CUIT/CUIL/CDI) de los titulares de créditos y deudas que se declaren e importes atribuibles a cada uno de ellos.</li>
 
- <ol></p>
+<ol></p>
 
 <h4>Fundamento jurídico de la excepción</h4>
 
@@ -103,6 +103,6 @@ Números de cuentas corriente, cajas de ahorro, cajas de seguridad y tarjetas de
 <p>
 <a href="https://data.buenosaires.gob.ar/datasets?query=declaraciones%20juradas">https://data.buenosaires.gob.ar/datasets?query=declaraciones%20juradas </a>
 <a href="https://www.buenosaires.gob.ar/jefedegobierno/legalytecnica/declaraciones-juradas">https://www.buenosaires.gob.ar/jefedegobierno/legalytecnica/declaraciones-juradas </a>
-</br>
+
 
 </p>
