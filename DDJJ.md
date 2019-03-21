@@ -28,8 +28,8 @@ En concordancia con la <a href="https://www.buenosaires.gob.ar/areas/leg_tecnica
 
 </p>
 <details><summary> Ver Listado de sujetos obligados </summary>
+
 <p>
- 
 |	Sujeto obligado	|
 |		------------- |
 |	El Jefe/a y Vice-Jefe/a de Gobierno	|
@@ -43,7 +43,6 @@ En concordancia con la <a href="https://www.buenosaires.gob.ar/areas/leg_tecnica
 |	Directivos, síndicos e integrantes de los directorios de los organismos descentralizados, entidades autárquicas, las empresas y sociedades del Estado	|
 |	Jefe de la Policía de la Ciudad y los funcionarios policiales de la misma con rango superior a Comisario	|
 |	Jefe del Cuerpo Bomberos de la Ciudad y los funcionarios integrantes del mismo con grado superior a Comandante	|
-
 </p>
 </details>
 
@@ -69,37 +68,42 @@ En concordancia con la <a href="https://www.buenosaires.gob.ar/areas/leg_tecnica
 |	Monto de los bienes o fondos involucrados en los fideicomisos de los que participe como fideicomitente o fideicomisario o beneficiario	|
 |	Cualquier otro tipo de ingreso anual, especificando su origen	|
 |	Antecedentes laborales y profesionales de los últimos dos años, sean o no rentados, incluyendo los que realizare al momento de su designación de los funcionarios mencionados en el título i)) cuyo acceso a la función no sea un resultado directo del sufragio universal	|
-
-
 </p>
 </details>
 
 <h2 id="formato"> Formato </h2>
 <p>
 Esta información debe publicarse en formato PDF y en CSV.
-
 </p>
+
 <h2 id="perio"> Periodicidad de actualización</h2>
-<p>Anual</p>
+<p>
+Anual
+</p>
 
 <h4>¡Atención! La publicación de la información puede tener excepciones parciales</h4>
-<p>Las declaraciones juradas patrimoniales contienen los siguientes datos de carácter confidencial: 
-<ol>
+<p>
+Las declaraciones juradas patrimoniales contienen los siguientes datos de carácter confidencial: 
+<ul>
 <li>Nombre de banco o entidad financiera donde se realizaron depósitos de dinero
 Números de cuentas corriente, cajas de ahorro, cajas de seguridad y tarjetas de crédito, entidad emisora y sus extensiones en el país y en el exterior;</li>
 <li>Ubicación detallada de los inmuebles;</li>
 <li>Los datos que permitan individualizar o la matrícula de los bienes muebles registrables y los otros bienes muebles contemplados;</li>
 <li>Individualización (con inclusión de nombre, apellido, tipo y número de documento, razón social, CUIT/CUIL/CDI) de aquellas sociedades, fundaciones, asociaciones, explotaciones, fondos comunes de inversión, fideicomisos u otros en las que se declare cualquier tipo de participación o inversión, acciones o cuotas partes y/o se hayan obtenido ingresos durante el año declarado;</li>
 <li>Los datos de individualización (con inclusión de nombre, apellido, tipo y número de documento, razón social, CUIT/CUIL/CDI) de los titulares de créditos y deudas que se declaren e importes atribuibles a cada uno de ellos.</li>
+</ul>
 </p>
 
 <h4>Fundamento jurídico de la excepción</h4>
 
-<p>Ley N° 4895/13: Ética en el Ejercicio de la Función Pública. </p>
+<p>
+Ley N° 4895/13: Ética en el Ejercicio de la Función Pública. 
+</p>
 
 <h2 id="ubicacion"> Ubicación de la publicación</h2>
 <p>
 <ul>
 <li><a href="https://data.buenosaires.gob.ar/datasets?query=declaraciones%20juradas">https://data.buenosaires.gob.ar/datasets?query=declaraciones%20juradas </a></li>
 <li><a href="https://www.buenosaires.gob.ar/jefedegobierno/legalytecnica/declaraciones-juradas">https://www.buenosaires.gob.ar/jefedegobierno/legalytecnica/declaraciones-juradas </a></li>
+</ul>
 </p>
