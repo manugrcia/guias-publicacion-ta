@@ -6,61 +6,37 @@ Artículo 18: Plan de Transparencia Activa: Los sujetos obligados por el Artícu
 
 Inciso a) “Su estructura orgánica, funciones, e información institucional”.
 </p>
+
 <h2 id="obligados"> ¿Quiénes están obligados a publicar esta información?</h2> 
 <p>
-<ul>
-<li>Órganos pertenecientes a la administración central, entes autárquicos u organismos interjurisdiccionales que se encuentren bajo la órbita del Poder Ejecutivo de la Ciudad Autónoma de Buenos Aires</li>
-<li>Procuración General de la Ciudad</li>
-<li>Sindicatura General de la Ciudad Autónoma de Buenos Aires</li>
-<li>Comunas, en su carácter de unidades de gestión política y administrativa descentralizadas</li>
-</ul>
+Artículo 3°.- Sujetos obligados: Serán sujetos obligados a brindar información pública según los términos de esta Ley:
 
+inciso a) Todos los órganos pertenecientes a la administración central, descentralizada, entes autárquicos u organismos interjurisdiccionales integrados por la Ciudad Autónoma de Buenos Aires.
 </p>
-
-<h2> Organigrama </h2> 
-
-<ol>
- <li><a href="#contenidos">Contenidos mínimos de publicación</a></li>
- <li><a href="#formato">Formato</a></li>
- <li><a href="#perio">Periodicidad de actualización</a></li>
- <li><a href="#valid">Periodicidad de validación</a></li>
- <li><a href="#ubicacion">Ubicación de la publicación</a></li>
- <li><a href="#compromisos">Compromisos de publicación</a></li>
-  
-</ol>
-<h3>  Antecedentes de funcionarios </h3> 
-<ol>
- <li><a href="#contenidos2">Contenidos mínimos de publicación</a></li>
- <li><a href="#formato2">Formato</a></li>
- <li><a href="#perio2">Periodicidad de actualización</a></li>
- <li><a href="#valid2">Periodicidad de validación</a></li>
- <li><a href="#ubicacion2">Ubicación de la publicación</a></li>
- <li><a href="#compromisos2">Compromisos de publicación</a></li>
- 
- 
-</ol>
- <h3>  Misiones, funciones y marco normativo del área  </h3> 
-<ol>
- <li><a href="#contenidos">Contenidos mínimos de publicación</a></li>
- <li><a href="#formato">Formato</a></li>
- <li><a href="#perio">Periodicidad de actualización</a></li>
- <li><a href="#valid">Periodicidad de validación</a></li>
- <li><a href="#ubicacion">Ubicación de la publicación</a></li>
- <li><a href="#compromisos">Compromisos de publicación</a></li>
- 
- 
-</ol>
 
 <h2 id="contenidos"> Contenidos mínimos de publicación </h2> 
-<p>Organigrama completo del área desde el nivel de ministros hasta el nivel de directores generales, señalando nombre completo y siglas de la repartición, nivel jerárquico y nombre de la autoridad máxima en cada caso. Señalar, en caso en que hubiere, aquellos organismos fuera de nivel dentro del área en cuestión. 
 
+<p>
+<ul>
+<li> Organigrama del área hasta nivel de Dirección General </li>
+<li> Antecedentes académicos y profesionales de funcionarios hasta nivel de Director General. </li>
+<li> Foto de perfil del funcionario hasta nivel de Director General (color, plano medio, tamaño mínimo 400x400) </li>
+<li> Misiones y funciones del área hasta nivel de Dirección General.  </li>
+<li> Marco de misiones y funciones del área hasta nivel de Dirección General (Ley de Ministerios, Decreto aprobatorio de la estructura orgánica. y, en caso de corresponder, normas estatuarias). </li>
+<li> Dirección física, correo electrónico y teléfono institucional hasta nivel de Dirección General. </li>
+</ul>
 </p>
-
 
 <h2 id="formato"> Formato </h2>
 <p>
-El organigrama estará en formato infográfico, en lo posible interactivo, que permita editar texto desde la página. 
-Publicación de la nómina de autoridades completa en formato abierto en los portales centralizados correspondientes indicando nombre, cargo y fecha de inicio de la gestión. </p>
+<ul>
+<li> El organigrama estará en formato infográfico. </li>
+<li> Antecedentes profesionales, misiones y funciones y datos de contacto formato HTML. </li>
+<li> Fotografía de perfil en formato JPG. </li>
+<li> Marco normativo en formato PDF. </li>
+</ul>
+</p>
+
 <h3>Te recomendamos estas buenas prácticas</h3>
 <p>Acompañar las áreas con referencias que permitan diferenciar entre niveles jerárquicos, entes descentralizados, entes autárquicos, etcétera. 
 Establecer links que permitan navegar desde el organigrama general a la información pormenorizada de cada área (información sobre funcionarios, normativa asociada, página de área). 
