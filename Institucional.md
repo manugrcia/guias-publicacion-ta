@@ -38,11 +38,14 @@ inciso a) Todos los órganos pertenecientes a la administración central, descen
 </p>
 
 <h3>Te recomendamos estas buenas prácticas</h3>
-<p>Acompañar las áreas con referencias que permitan diferenciar entre niveles jerárquicos, entes descentralizados, entes autárquicos, etcétera. 
-Establecer links que permitan navegar desde el organigrama general a la información pormenorizada de cada área (información sobre funcionarios, normativa asociada, página de área). 
-
-
+<p>
+<ul>
+<li> Además de los datos de contacto solicitados, hay información complementaria que puede ser útil , como las redes sociales de los funcionarios o su CV adjunto. </li>
+<li> Se sugiere ordenar el marco normativo por jerarquía y de manera cronológica (Leyes, Decretos, Resoluciones o estatutos reglamentarios). </li>
+<li> Inclusión de un desglose en lenguaje coloquial y párrafos breves (aproximadamente 200 palabras en total) de las misiones y los objetivos que se ha planteado la actual gestión, de manera que se permita el acceso a usuarios con diferentes competencias (sin necesidad de lenguaje técnico / legal).  </li>
+</ul>
 </p>
+
 <h2 id="perio"> Periodicidad de actualización</h2>
 <p>Eventual.</p>
 
