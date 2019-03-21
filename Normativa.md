@@ -29,60 +29,51 @@ Inciso a) “Todos los decretos dictados por el/la Jefe/a de Gobierno”.
 Artículo 3°.- Sujetos obligados: Serán sujetos obligados a brindar información pública según los términos de esta Ley:
 
 inciso a) Todos los órganos pertenecientes a la administración central, descentralizada, entes autárquicos u organismos interjurisdiccionales integrados por la Ciudad Autónoma de Buenos Aires.
-
-
 </p>
-
 
 <h2 id="contenidos"> Contenidos mínimos de publicación </h2> 
 <p>La información sobre normativa deberá contener los siguientes ítems: </p>
 <details><summary> Ver Listado de ítems a publicar </summary>
 <p>
 
-
 |	Ítem	|
 |		------------- |
-|	Leyes sancionadas|
-| Leyes de aprobación inicial |
-| Decretos de alcance general y particular dictados por el/la Jefe/a de Gobierno|
-| Decretos de alcance general y particular dictados por el/la Vicejefe/a de Gobierno|
-| Decretos de alcance general y particular dictados por el/la Jefe/a de Gabinete|
-| Resoluciones de alcance general y carácter permanente.|
-| Resoluciones de alcance particular y carácter permanente (ver cuadro).|
-| Disposiciones de alcance general y carácter permanente.|
-| Disposiciones de alcance particular y carácter permanente (ver cuadro).|
-
-
+|	Leyes sancionadas de la CABA|
+| Decretos dictados de la CABA |
+| Resoluciones de alcance general y carácter permanente|
+| Resoluciones de alcance particular y carácter permanente (ver cuadro)|
+| Disposiciones de alcance general y carácter permanente|
+| Disposiciones de alcance particular y carácter permanente (ver cuadro)|
 
 </p>
 </details>
-<h2 id="normas"> Normas de alcance particular que deben publicarse </h2>
+<h2 id="normas"> Normas cuya publicación debe priorizarse según la materia </h2>
 <details><summary> Ver Listado de normas </summary>
 <p>
 
 
 |	Ítem	|
 |		------------- |
-|	Asignación de aportes públicos a un partido político o alianza |
-| Convenios administrativos|
-| Designaciones de funcionarios  (Ministros, Secretarios, Subsecretarios, Directores Generales, Director Ejecutivo de Agencias), régimen gerencial, Planta Permanente y Planta Transitoria, Planta de Gabinete, síndicos y directorio de Sociedades del Estados.|
-| Renuncias, sanciones y transferencias de agentes|
-| Contratación de personas para prestar servicios técnicos, profesionales u operativos|
-| Asignación de Suplemento de Gabinete|
-| Otorgamiento de predios a asociaciones civiles o sujetos determinados|
-| Condonación de deuda|
-| Licitación Privada o Concurso Privado, Contratación Directa, Contratación Menor, aprobación de economías/demasías. |
-| Proceso de compras(llamado, adjudicación)|
-| Cualquier acto dictado en el marco de una Licitación Pública adjudicada.|
-| Redeterminación de precios|
-| Aprobación de gastos/rendición de fondos  de caja chica común/especial|
-| Sanciones y penalidades aplicadas a los proveedores del Sistema Buenos Aires Compras (BAC)|
-| Donaciones sin emplazamiento|
-| Otorgamiento de concesiones|
-| Otorgamiento y rendición de subsidios|
-| Otorgamiento de mecenazgo |
-| Habilitación para locales y empresas determinados|
-| Declaración de impacto ambiental|
+|	Asignación de aportes públicos a un partido político o alianza	|
+|	Convenios administrativos	|
+|	Designaciones de funcionarios (Ministros, Secretarios, Subsecretarios, Directores Generales, Director Ejecutivo de Agencias), régimen gerencial, Planta Permanente y Planta Transitoria, Planta de Gabinete, síndicos y directorio de Sociedades del Estados.	|
+|	Renuncias, sanciones y transferencias de agentes	|
+|	Contratación de personas para prestar servicios técnicos, profesionales u operativos	|
+|	Asignación de Suplemento de Gabinete	|
+|	Otorgamiento de predios a asociaciones civiles o sujetos determinados	|
+|	Condonación de deuda	|
+|	Licitación Privada o Concurso Privado, Contratación Directa, Contratación Menor, aprobación de economías/demasías.	|
+|	Proceso de compras(llamado, adjudicación)	|
+|	Cualquier acto dictado en el marco de una Licitación Pública adjudicada.	|
+|	Redeterminación de precios	|
+|	Aprobación de gastos/rendición de fondos  de caja chica común/especial	|
+|	Sanciones y penalidades aplicadas a los proveedores del Sistema Buenos Aires Compras (BAC)	|
+|	Donaciones sin emplazamiento	|
+|	Otorgamiento de concesiones	|
+|	Otorgamiento y rendición de subsidios	|
+|	Otorgamiento de mecenazgo	|
+|	Habilitación para locales y empresas determinados	|
+|	Declaración de impacto ambiental	|
 
 
 
