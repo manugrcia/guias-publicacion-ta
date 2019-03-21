@@ -82,18 +82,18 @@ Esta información debe publicarse en formato PDF y en CSV.
 <h2 id="perio"> Periodicidad de actualización</h2>
 <p>Anual</p>
 
-<h4>¡Atención! La publicación de la información puede tener excepciones parciales
-</h4>
- <p>Las declaraciones juradas patrimoniales contienen los siguientes datos de carácter confidencial: 
+<h4>¡Atención! La publicación de la información puede tener excepciones parciales</h4>
+<p>Las declaraciones juradas patrimoniales contienen los siguientes datos de carácter confidencial: 
 <ol>
 <li>Nombre de banco o entidad financiera donde se realizaron depósitos de dinero
 Números de cuentas corriente, cajas de ahorro, cajas de seguridad y tarjetas de crédito, entidad emisora y sus extensiones en el país y en el exterior;</li>
 <li>Ubicación detallada de los inmuebles;</li>
 <li>Los datos que permitan individualizar o la matrícula de los bienes muebles registrables y los otros bienes muebles contemplados;</li>
-  <li>Individualización (con inclusión de nombre, apellido, tipo y número de documento, razón social, CUIT/CUIL/CDI) de aquellas sociedades, fundaciones, asociaciones, explotaciones, fondos comunes de inversión, fideicomisos u otros en las que se declare cualquier tipo de participación o inversión, acciones o cuotas partes y/o se hayan obtenido ingresos durante el año declarado;</li>
+<li>Individualización (con inclusión de nombre, apellido, tipo y número de documento, razón social, CUIT/CUIL/CDI) de aquellas sociedades, fundaciones, asociaciones, explotaciones, fondos comunes de inversión, fideicomisos u otros en las que se declare cualquier tipo de participación o inversión, acciones o cuotas partes y/o se hayan obtenido ingresos durante el año declarado;</li>
 <li>Los datos de individualización (con inclusión de nombre, apellido, tipo y número de documento, razón social, CUIT/CUIL/CDI) de los titulares de créditos y deudas que se declaren e importes atribuibles a cada uno de ellos.</li>
 
-<ol></p>
+<ol>
+</p>
 
 <h4>Fundamento jurídico de la excepción</h4>
 
