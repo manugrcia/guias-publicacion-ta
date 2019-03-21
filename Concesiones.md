@@ -41,12 +41,12 @@ inciso a) Todos los órganos pertenecientes a la administración central, descen
 |		------------- |
 |	Nombre o razón social del/la titular;|
 |Objeto de la concesión|
-|Autorización o permiso|
-|Vigencia|
+|Ubicación de la concesión|
+|Estado|
+|Rubro|
+|Fecha de otorgamiento|
+|Duración|
 |Canon|
-
-
-
 
 </p>
 </details>
@@ -55,7 +55,7 @@ inciso a) Todos los órganos pertenecientes a la administración central, descen
 <p> Formato CSV o XML
 </p>
 <h2 id="perio"> Periodicidad de actualización</h2>
-<p>Mensual</p>
+<p>Eventual</p>
 
 
 <h2 id="ubicacion"> Ubicación de la publicación</h2>
