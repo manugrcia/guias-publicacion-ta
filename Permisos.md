@@ -46,17 +46,7 @@ inciso a) Todos los órganos pertenecientes a la administración central, descen
 |Duración|
 
 </details>
-<p>
 
-</br>
-Para cada elemento, discriminar la siguiente información: 
-<ul>
-<li>Nombre o razón social del/la titular;</li>
-<li>Objeto de la concesión</li>
-<li>Autorización o permiso</li>
-<li>Vigencia</li>
-<li>Canon</li>
-</ul></p>
 <h2 id="formato"> Formato </h2>
 <p>
 Formato CSV o XML
