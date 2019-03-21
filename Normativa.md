@@ -74,16 +74,21 @@ inciso a) Todos los órganos pertenecientes a la administración central, descen
 |	Otorgamiento de mecenazgo	|
 |	Habilitación para locales y empresas determinados	|
 |	Declaración de impacto ambiental	|
-
-
-
 </p>
 </details>
+
+<h2> Te recomendamos estas buenas prácticas</h2>
+<ul>
+<li>Mencionar, además de la normativa publicada, su estado actual (ej: vigente, derogada, reemplazada por, etcétera).</li>
+<li>Establecer enlaces al digesto normativo, buscadores y otras herramientas que amplíen la información relacionada con la normativa publicada.</li>
+<li>Ofrecer clasificación y filtros de búsqueda por temática, rango de fechas y, áreas involucradas.</li>
+</ul>
+</p>
+
 <h2 id="formato"> Formato </h2>
 <p> Texto (html, word, PDF o similar) editable, formato abierto en caso correspondiente,
 Adjuntos en PDF.
 
-</p>
 <h2 id="perio"> Periodicidad de actualización</h2>
 <p>Eventual</p>
 
