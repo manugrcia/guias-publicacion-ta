@@ -62,7 +62,7 @@ Formato CSV o XML
 
 </p>
 <h2 id="perio"> Periodicidad de actualización</h2>
-<p>Mensual</p>
+<p>Trimestral</p>
 
 <h4>¡Atención! La publicación de este tipo de información no tiene excepción, dado que no contiene datos personales sensibles, confidenciales o protegidos por la normativa vigente.
 </h4>
