@@ -88,15 +88,3 @@ Los contenidos deberán estar disponibles en formato abierto (XLS, XLSV, CSV)
  </br>
 <a href="https://data.buenosaires.gob.ar/">https://data.buenosaires.gob.ar/ </a>
 </p>
-
-<h2 id="compromisos">  Compromisos de publicación</h2>
-
-<!-- | Compromiso | Fecha de cumplimiento |
-| --- | --- |
-| Listado | |
-| Pliego | |
-| Tipo de contratación | |
-| Certificados de aptitud ambiental | |
-| Incorporar AUSA, IVC | |
--->
-
