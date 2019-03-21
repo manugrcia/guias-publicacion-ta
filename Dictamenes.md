@@ -68,7 +68,9 @@ inciso a) Todos los órganos pertenecientes a la administración central, descen
 <p>
 Los dictámenes jurídicos emitidos por la PG se publicarán en el siguiente portal centralizado:  <a href="https://dictamenesprocuracion.buenosaires.gob.ar/">https://dictamenesprocuracion.buenosaires.gob.ar/ </a>
 
-Respecto de los informes técnicos emitidos por las distintas áreas competentes, 
+Respecto de los informes técnicos emitidos por las distintas áreas competentes, se deberán publicar en las páginas de área de cada jurisdicción con jerarquía de Ministerio, Secretaría u organismo fuera de nivel, dependiendo del caso. Ejemplo de página de área:
+http://www.buenosaires.gob.ar/gobierno
+
 
 </p>
 
