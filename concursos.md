@@ -74,7 +74,7 @@ Los contenidos mínimos deberán estar disponibles en formato digital y en forma
 <h2 id="valid"> Periodicidad de validación</h2>
 <p>Trimestral</p>
 
-<h4>¡¡Atención! La publicación de este tipo de información no tiene excepción, dado que no contiene datos personales sensibles, confidenciales o protegidos por la normativa vigente.
+<h4>¡Atención! La publicación de este tipo de información no tiene excepción, dado que no contiene datos personales sensibles, confidenciales o protegidos por la normativa vigente.
 </h4>
 
 <h2 id="ubicacion"> Ubicación de la publicación</h2>
