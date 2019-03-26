@@ -29,7 +29,7 @@ En concordancia con la <a href="https://www.buenosaires.gob.ar/areas/leg_tecnica
 
 <p>
 |	Sujeto obligado	|
-|		------------- |
+|	------------- 	|
 |	El Jefe/a y Vice-Jefe/a de Gobierno	|
 |	Ministros, Secretarios, Subsecretarios, Directores Generales o equivalentes del Poder Ejecutivo y los titulares de los entes descentralizados	|
 |	Miembros de las Juntas Comunales	|
@@ -41,6 +41,7 @@ En concordancia con la <a href="https://www.buenosaires.gob.ar/areas/leg_tecnica
 |	Directivos, síndicos e integrantes de los directorios de los organismos descentralizados, entidades autárquicas, las empresas y sociedades del Estado	|
 |	Jefe de la Policía de la Ciudad y los funcionarios policiales de la misma con rango superior a Comisario	|
 |	Jefe del Cuerpo Bomberos de la Ciudad y los funcionarios integrantes del mismo con grado superior a Comandante	|
+
 </p>
 </details>
 
