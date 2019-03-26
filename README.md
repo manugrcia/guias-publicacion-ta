@@ -25,6 +25,5 @@ A continuación, compartimos la lista de Guías de Publicación disponibles hast
   - [Permisos de obra](permisos.md)
   - [presupuesto](presupuesto.md)
   - [Sueldos de Autoridades y Escala Salarial de Personal](recursos-humanos.md)
-  - sueldos: sueldos.md
   - [Trámites y Servicios](tramites-servicios.md)
   
