@@ -13,7 +13,7 @@
  
 <h2 id="marco">Marco normativo</h2>  
 <p>
-AArtículo 18: Plan de Transparencia Activa: Los sujetos obligados por el Artículo 3° incisos a), b), c), d), e), g)y h) deberán publicar en sus respectivas páginas web, de manera completa y actualizada y en lo posible en formatos abiertos y reutilizables, la siguiente información:
+Artículo 18: Plan de Transparencia Activa: Los sujetos obligados por el Artículo 3° incisos a), b), c), d), e), g)y h) deberán publicar en sus respectivas páginas web, de manera completa y actualizada y en lo posible en formatos abiertos y reutilizables, la siguiente información:
 
 Inciso f) Listado de concesiones, permisos y autorizaciones otorgadas y sus respectivos
 titulares, especificando nombre o razón social del/la titular; objeto de la concesión, autorización o permiso; vigencia; y canon.
