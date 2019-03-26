@@ -17,11 +17,11 @@
 <p>
 Artículo 18: Plan de Transparencia Activa: Los sujetos obligados por el Artículo 3° incisos a), b), c), d), e), g)y h) deberán publicar en sus respectivas páginas web, de manera completa y actualizada y en lo posible en formatos abiertos y reutilizables, la siguiente información:
 
-Inciso g) “Todo acto o resolución, de carácter general o particular, especialmente las normas que establecieran beneficios para el público en general o para un sector, las actas en las que constara la deliberación de un cuerpo colegiado, la versión taquigráfica y los dictámenes jurídicos y técnicos producidos antes de la decisión y que hubiesen servido de sustento o antecedente”.
+Inciso g) Todo acto o resolución, de carácter general o particular, especialmente las normas que establecieran beneficios para el público en general o para un sector, las actas en las que constara la deliberación de un cuerpo colegiado, la versión taquigráfica y los dictámenes jurídicos y técnicos producidos antes de la decisión y que hubiesen servido de sustento o antecedente.
 
 Artículo 20.- Información mínima del Poder Ejecutivo y las Comunas: Además de lo señalado en el Artículo 18°, deberán mantener actualizada y a disposición del público de manera unificada e informatizada, la siguiente información clave: 
 
-Inciso a) “Todos los decretos dictados por el/la Jefe/a de Gobierno”. 
+Inciso a) Todos los decretos dictados por el/la Jefe/a de Gobierno. 
 
 </p>
 <h2 id="obligados"> ¿Quiénes están obligados a publicar esta información?</h2> 
