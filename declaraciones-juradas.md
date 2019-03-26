@@ -18,6 +18,7 @@ Inciso m) “Declaraciones Juradas de funcionarios públicos de acuerdo a la Ley
 </p>
 
 <h2 id="obligados"> ¿Quiénes están obligados a publicar esta información?</h2> 
+
 <p>
 Artículo 3°.- Sujetos obligados: Serán sujetos obligados a brindar información pública según los términos de esta Ley:
 
@@ -45,9 +46,10 @@ En concordancia con la [Ley N° 4895/13](https://www.buenosaires.gob.ar/areas/le
 </details>
 
 <h2 id="contenidos"> Contenidos mínimos de publicación </h2> 
-<p>El contenido de la declaración jurada patrimonial que será objeto de publicación en la página web oficial del Gobierno de la Ciudad Autónoma de Buenos Aires, deberá cumplir con lo dispuesto por el artículo N° 16 de la Ley N° 4895/13. Acorde a lo estipulado por la normativa en vigencia, la declaración jurada patrimonial de los sujetos comprendidos deberá contener los siguientes ítems informativos: 
-
+<p>
+ El contenido de la declaración jurada patrimonial que será objeto de publicación en la página web oficial del Gobierno de la Ciudad Autónoma de Buenos Aires, deberá cumplir con lo dispuesto por el artículo N° 16 de la Ley N° 4895/13. Acorde a lo estipulado por la normativa en vigencia, la declaración jurada patrimonial de los sujetos comprendidos deberá contener los siguientes ítems informativos: 
 </p>
+
 <details><summary> Ver Listado de ítems a publicar </summary>
 <p>
 |	Ítem	|
