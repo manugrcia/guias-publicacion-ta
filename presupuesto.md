@@ -19,7 +19,7 @@ Inciso d) “El presupuesto asignado a cada área, programa o función, y el est
 <h2 id="obligados"> ¿Quiénes están obligados a publicar esta información?</h2> 
 <p>
 Artículo 3°.- Sujetos obligados: Serán sujetos obligados a brindar información pública según los términos de esta Ley:
-</br>
+
 inciso a) Todos los órganos pertenecientes a la administración central, descentralizada, entes autárquicos u organismos interjurisdiccionales integrados por la Ciudad Autónoma de Buenos Aires;
 
 </p>
