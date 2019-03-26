@@ -62,35 +62,3 @@ inciso a) Todos los órganos pertenecientes a la administración central, descen
 <a href="www.buenosaires.gob.ar/organigrama"> www.buenosaires.gob.ar/educacion </a>
 </br>
 </p>
-
-<h2 id="compromisos">  Compromisos de publicación</h2>
-
-| Compromiso | Fecha de cumplimiento |
-| --- | --- |
-| Actualización y validación del listado de áreas dentro del GCBA y sus respectivas vinculaciones jerárquicas| Febrero 2019 |
-| Actualización y validación del listado de autoridades de cada área del GCBA detallando nombre, cargo y fecha de inicio de gestión.| Marzo 2019|
-| Publicación de imagen editable con todas las áreas, siglas y nombre de autoridad máxima en cada caso dentro del portal centralizado www.buenosaires.gob.ar/organigrama | Abril - Mayo 2019|
-| Validación trimestral del listado de áreas y  autoridades de cada área del GCBA detallando nombre, cargo y fecha de inicio de gestión. | Mayo  2019|
-| Validación trimestral del listado de áreas y  autoridades de cada área del GCBA detallando nombre, cargo y fecha de inicio de gestión | Agosto 2019|
-| Validación trimestral del listado de áreas y  autoridades de cada área del GCBA detallando nombre, cargo y fecha de inicio de gestión |Noviembre 2019|
-
-<h2> Antecedentes de funcionarios </h2>
-
-| Compromiso | Fecha de cumplimiento |
-| --- | --- |
-| Armado y validación de la mini biografía y foto institucional del/la funcionario/a con mayor rango dentro del área. | Marzo 2019 |
-| Validación de archivos adjuntos en relación a los antecedentes del/la funcionario/a con mayor rango dentro del área | Abril  2019|
-| Publicación y/o actualización de minbiografía, imagen, archivos adjuntos y datos de contacto de cada funcionario/a en cada portal institucional.| Abril - Mayo 2019 |
-| Validación trimestral de minibiografía, imagen, archivos adjuntos y datos de contacto de cada funcionario/a en cada portal institucional.| Agosto  2019 |
-| Validación trimestral de minibiografía, imagen, archivos adjuntos y datos de contacto de cada funcionario/a en cada portal institucional | Noviembre 2019  |
-</p>
-
-<h2> Misiones, funciones y marco normativo del área  </h2>
-
-| Compromiso | Fecha de cumplimiento |
-| --- | --- |
-| Armado y validación de la descripción de las misiones y funciones del área.| Marzo 2019 |
-| Presentación y validación de la normativa asociada a las misiones y funciones del área y sus respectivos resúmenes en lenguaje claro. | Marzo - abril 2019|
-| Publicación de las misiones y funciones del área tanto en fomato texto como archivos adjuntos | Mayo 2019|
-| Validación de misiones y funciones del área tanto en formato texto como en formato archivos adjuntos| Noviembre 2019 |
-
