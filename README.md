@@ -13,7 +13,7 @@ A continuación, compartimos la lista de Guías de Publicación disponibles hast
   - [Institucional](institucional.md)
   - [Declaraciones Juradas](declaraciones-juradas.md)
   - [Informes de Auditoría](informes-auditoria.md)
-  - [presupuesto](presupuesto.md)
+  - [Presupuesto](presupuesto.md)
   - [Nómina de autoridades y personal](nomina-personal.md)
   - [Sueldos de Autoridades y Escala Salarial de Personal](recursos-humanos.md)
   - [Concursos de Personal](concursos.md)
