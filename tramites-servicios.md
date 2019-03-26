@@ -27,11 +27,6 @@ inciso a) Todos los órganos pertenecientes a la administración central, descen
 
 </p>
 
-<p>Áreas clave para implementación de compromisos
-
-Secretaría de Atención y Gestión Ciudadana, Jefatura de Gabinete GCABA.
-</p>
-
 <h2 id="contenidos"> Contenidos mínimos de publicación </h2> 
 <details><summary> Ver Listado de ítems a publicar </summary>
 
