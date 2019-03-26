@@ -24,10 +24,9 @@ Artículo 3°.- Sujetos obligados: Serán sujetos obligados a brindar informaci�
 inciso a) Todos los órganos pertenecientes a la administración central, descentralizada, entes autárquicos u organismos interjurisdiccionales integrados por la Ciudad Autónoma de Buenos Aires.
 
 En concordancia con la [Ley N° 4895/13](https://www.buenosaires.gob.ar/areas/leg_tecnica/sin/normapop09.php?id=237252&qu=c&ft=0&cp=&rl=1&rf=0&im=&ui=0&printi=1&pelikan=1&sezion=&primera=0&mot_toda=&mot_frase=&mot_alguna=&digId=), los sujetos obligados comprendidos en el inciso m) del artículo 18, cuya declaración jurada patrimonial deberá publicarse en la página web oficial del Gobierno de la Ciudad Autónoma de Buenos Aires son: 
-
 </p>
-<details><summary> Ver Listado de sujetos obligados </summary>
 
+<details><summary> Ver Listado de ítems a publicar </summary>
 <p>
 |	Sujeto obligado	|
 |	------------- |
@@ -42,7 +41,6 @@ En concordancia con la [Ley N° 4895/13](https://www.buenosaires.gob.ar/areas/le
 |	Directivos, síndicos e integrantes de los directorios de los organismos descentralizados, entidades autárquicas, las empresas y sociedades del Estado	|
 |	Jefe de la Policía de la Ciudad y los funcionarios policiales de la misma con rango superior a Comisario	|
 |	Jefe del Cuerpo Bomberos de la Ciudad y los funcionarios integrantes del mismo con grado superior a Comandante	|
-
 </p>
 </details>
 
