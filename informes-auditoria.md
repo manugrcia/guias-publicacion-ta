@@ -48,7 +48,7 @@ Digital - PDF
 </p>
 <h2 id="perio"> Periodicidad de actualización</h2>
 <p>
-semestral.
+Semestral.
 </p>
 
 <h4>¡Atención! La publicación de este tipo de información tiene una excepción parcial ya que los informes contienen datos personales sensibles, confidenciales y protegidos por la normativa vigente.
@@ -57,7 +57,7 @@ semestral.
 <h3>Fundamento jurídico de la excepción</h3>
  <p> Protección de datos personales sensibles:
 <a href="http://servicios.infoleg.gob.ar/infolegInternet/anexos/60000-64999/64790/norma.htm"> Ley nacional N° 25.326/00</a>
-<a href="https://docs.google.com/document/d/1TT7n_1bKHNjZUc-xN-XVXucMTpEsLcT_q1K9hXzAjGY/edit">  Ley CABA N° 1845/06 </a>
+<a href="https://www.buenosaires.gob.ar/areas/leg_tecnica/sin/normapop09.php?id=81179&qu=c&ft=0&cp=&rl=0&rf=0&im=&ui=0&printi=&pelikan=1&sezion=&primera=0&mot_toda=&mot_frase=&mot_alguna=&digId=">  Ley CABA N° 1845/06 </a>
 
 Seguridad informática:
 <a href="https://www.buenosaires.gob.ar/sites/gcaba/files/rs-2013-177--asinf_4.pdf">Resolución 177/13-ASINF</a>
