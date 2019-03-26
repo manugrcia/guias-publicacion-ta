@@ -14,7 +14,7 @@
  
 <h2 id="marco">Marco normativo</h2>  
 <p>
-Disposición N° 3/DGSOCAI/2018: Con el objeto de estructurar un esquema de publicación de las obligaciones de Transparencia Activa que facilite su organización y búsqueda por parte de los usuarios, los tipos de información incluidos en los incisos correspondientes a los Artículos N° 18 y 20, se agruparán en 13 ejes temáticos cuya composición se presenta a continuación: 
+Disposición N° 3/DGSOCAI/2018: Con el objeto de estructurar un esquema de publicación de las obligaciones de Transparencia Activa que facilite su organización y búsqueda por parte de los usuarios, los tipos de información incluidos en los incisos correspondientes a los Artículos N° 18 y 20 se agruparán en 13 ejes temáticos cuya composición se presenta a continuación: 
 
 Punto V: “Eje Recursos Humanos: nómina de autoridades y personal; escalas salariales; sueldos de funcionarios; concursos de personal”
 
@@ -30,7 +30,7 @@ inciso a) Todos los órganos pertenecientes a la administración central, descen
 </p>
 
 <h2 id="contenidos"> Contenidos mínimos de publicación </h2> 
-<p>Los concursos de personal correspondientes al Escalafón general y al Régimen Gerencial, deberán contener:
+<p>Los concursos de personal correspondientes al Escalafón General y al Régimen Gerencial deberán contener:
  <details><summary> Ver Listado de ítems a publicar </summary>
 
 |	Ítem	|
