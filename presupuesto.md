@@ -37,27 +37,28 @@ inciso a) Todos los órganos pertenecientes a la administración central, descen
 <h2 id="contenidos"> Contenidos mínimos de publicación </h2> 
 <details><summary> Ver Listado de ítems a publicar </summary>
 <p>
-<ul>
-<li>Informe trimestral de ejecución presupuestaria</li>
-<li>Informe de avance del presupuesto con las observaciones presentadas, ejecución presupuestaria de cada jurisdicción y ejecución de las metas físicas comprometidas</li>
-<li>Plan Plurianual de Inversiones correspondiente al Programa General de Acción de Gobierno y al Plan de Inversiones Públicas</li>
-<li>Mensaje y proyecto de presupuesto elaborado por el Poder Ejecutivo </li>
-<li>Ley de Presupuesto de la Administración del Gobierno de la Ciudad Autónoma de Buenos Aires sancionada por la Legislatura</li>
-<li>Presupuesto Consolidado del Sector Público. El mismo contiene:
-<ul>
-  <li>Una síntesis del Presupuesto General de la Administración de la CABA</li>
-  <li>Los aspectos básicos de los presupuestos de cada una de las empresas y sociedades del Estado.</li>
-  <li>La consolidación de los recursos y gastos públicos y su presentación en agregados institucionales útiles para el análisis económico</li>
-  <li>Una referencia a los principales proyectos de inversión en ejecución por el Sector Público de la Ciudad de Buenos Aires.</li>
-  <li>Detalle de la producción de bienes y servicios y de los recursos humanos que se estiman utilizar, así como la relación de ambos con los recursos financieros.</li>
-  <li>Un análisis de los efectos económicos de los recursos y gastos consolidados sobre el resto de la economía.</li></li></ul>
-<li>El informe de Cuenta de Inversión remitido a la Legislatura de la Ciudad</li>
-<li>El informe de presupuesto ciudadano</li>
-<li>El informe de cierre realizado por la Auditoría General de la CABA</li>
-<li>Los informes del indicador local de transparencia presupuestaria realizado por la Auditoría General de la CABA.</li>
-<li>Cronograma de publicación de los informes antes mencionados.</li>
-</ul></details>
-</br>
+| ítems |
+| ------- |
+|	Informe trimestral de ejecución presupuestaria	|
+|	Informe de avance del presupuesto con las observaciones presentadas, ejecución presupuestaria de cada jurisdicción y ejecución de las metas físicas comprometidas	|
+|	Plan Plurianual de Inversiones correspondiente al Programa General de Acción de Gobierno y al Plan de Inversiones Públicas	|
+|	Mensaje y proyecto de presupuesto elaborado por el Poder Ejecutivo	|
+|	Ley de Presupuesto de la Administración del Gobierno de la Ciudad Autónoma de Buenos Aires sancionada por la Legislatura	|
+|	Presupuesto Consolidado del Sector Público. El mismo contiene:	|
+|	Una síntesis del Presupuesto General de la Administración de la CABA	|
+|	Los aspectos básicos de los presupuestos de cada una de las empresas y sociedades del Estado.	|
+|	La consolidación de los recursos y gastos públicos y su presentación en agregados institucionales útiles para el análisis económico	|
+|	Una referencia a los principales proyectos de inversión en ejecución por el Sector Público de la Ciudad de Buenos Aires.	|
+|	Detalle de la producción de bienes y servicios y de los recursos humanos que se estiman utilizar, así como la relación de ambos con los recursos financieros.	|
+|	Un análisis de los efectos económicos de los recursos y gastos consolidados sobre el resto de la economía.	|
+|	El informe de Cuenta de Inversión remitido a la Legislatura de la Ciudad	|
+|	El informe de presupuesto ciudadano	|
+|	El informe de cierre realizado por la Auditoría General de la CABA	|
+|	Los informes del indicador local de transparencia presupuestaria realizado por la Auditoría General de la CABA.	|
+|	Cronograma de publicación de los informes antes mencionados.	|
+ </p>
+ </details>
+
 La información contemplada deberá presentarse con el siguiente nivel de desagregación:
 <ul>
 <li>Gasto por Carácter Institucional
