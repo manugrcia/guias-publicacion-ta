@@ -30,21 +30,21 @@ inciso a) Todos los órganos pertenecientes a la administración central, descen
 <p>
 <ul>
 <li> Organigrama del área hasta nivel de Dirección General </li>
-<li> Antecedentes académicos y profesionales de funcionarios hasta nivel de Director General. </li>
+<li> Antecedentes académicos y profesionales de funcionarios hasta nivel de Director General </li>
 <li> Foto de perfil del funcionario hasta nivel de Director General (color, plano medio, tamaño mínimo 400x400) </li>
-<li> Misiones y funciones del área hasta nivel de Dirección General.  </li>
-<li> Marco de misiones y funciones del área hasta nivel de Dirección General (Ley de Ministerios, Decreto aprobatorio de la estructura orgánica. y, en caso de corresponder, normas estatuarias). </li>
-<li> Dirección física, correo electrónico y teléfono institucional hasta nivel de Dirección General. </li>
+<li> Misiones y funciones del área hasta nivel de Dirección General  </li>
+<li> Marco de misiones y funciones del área hasta nivel de Dirección General (Ley de Ministerios, Decreto aprobatorio de la estructura orgánica. y, en caso de corresponder, normas estatuarias) </li>
+<li> Dirección física, correo electrónico y teléfono institucional hasta nivel de Dirección General </li>
 </ul>
 </p>
 
 <h2 id="formato"> Formato </h2>
 <p>
 <ul>
-<li> El organigrama estará en formato infográfico. </li>
-<li> Antecedentes profesionales, misiones y funciones y datos de contacto formato HTML. </li>
-<li> Fotografía de perfil en formato JPG. </li>
-<li> Marco normativo en formato PDF. </li>
+<li> El organigrama estará en formato infográfico </li>
+<li> Antecedentes profesionales, misiones y funciones y datos de contacto formato HTML </li>
+<li> Fotografía de perfil en formato JPG </li>
+<li> Marco normativo en formato PDF </li>
 </ul>
 </p>
 
