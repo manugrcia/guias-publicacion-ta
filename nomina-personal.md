@@ -15,7 +15,7 @@
 <p>
 Artículo 18: Plan de Transparencia Activa: Los sujetos obligados por el Artículo 3° incisos a), b), c), d), e), g)y h) deberán publicar en sus respectivas páginas web, de manera completa y actualizada y en lo posible en formatos abiertos y reutilizables, la siguiente información:
 
-Inciso b) “La nómina de autoridades y personal que preste servicios en los sujetos obligados de la presente ley, indicando. nombre, apellido, cargo, fecha de ingreso y área a la que pertenece”. 
+Inciso b) La nómina de autoridades y personal que preste servicios en los sujetos obligados de la presente ley, indicando. nombre, apellido, cargo, fecha de ingreso y área a la que pertenece. 
 
 </p>
 <h2 id="obligados"> ¿Quiénes están obligados a publicar esta información?</h2> 
@@ -70,12 +70,3 @@ Los contenidos deberán estar disponibles en formato abierto (XLS, XLSV, CSV)
  
 
 </p>
-
-<!-- | Compromiso | Fecha de cumplimiento |
-| --- | --- |
-| Listado | |
-| Pliego | |
-| Tipo de contratación | |
-| Certificados de aptitud ambiental | |
-| Incorporar AUSA, IVC | |
--->
