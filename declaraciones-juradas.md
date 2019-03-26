@@ -1,5 +1,6 @@
-<h1> Declaraciones Juradas</h2> 
-<h3>  Contenido del documento: </h3> 
+# Declaraciones Juradas 
+
+##Contenido del documento
 <ol>
  <li><a href="#marco">Marco normativo</a></li>
  <li><a href="#obligados">¿Quiénes están obligados a publicar esta información?</a></li>
@@ -14,8 +15,8 @@
 Artículo 18: Plan de Transparencia Activa: Los sujetos obligados por el Artículo 3° incisos a), b), c), d), e), g)y h) deberán publicar en sus respectivas páginas web, de manera completa y actualizada y en lo posible en formatos abiertos y reutilizables, la siguiente información:
 
 Inciso m) “Declaraciones Juradas de funcionarios públicos de acuerdo a la Ley de Ética Pública”
-
 </p>
+
 <h2 id="obligados"> ¿Quiénes están obligados a publicar esta información?</h2> 
 <p>
 Artículo 3°.- Sujetos obligados: Serán sujetos obligados a brindar información pública según los términos de esta Ley:
