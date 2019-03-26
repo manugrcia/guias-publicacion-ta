@@ -56,7 +56,7 @@ Semestral.
 
 <h3>Fundamento jurídico de la excepción</h3>
  <p> Protección de datos personales sensibles:
-<a href="http://servicios.infoleg.gob.ar/infolegInternet/anexos/60000-64999/64790/norma.htm"> Ley nacional N° 25.326/00</a>
+<a href="http://servicios.infoleg.gob.ar/infolegInternet/anexos/60000-64999/64790/norma.htm"> Ley Nacional N° 25.326/00</a>
 <a href="https://www.buenosaires.gob.ar/areas/leg_tecnica/sin/normapop09.php?id=81179&qu=c&ft=0&cp=&rl=0&rf=0&im=&ui=0&printi=&pelikan=1&sezion=&primera=0&mot_toda=&mot_frase=&mot_alguna=&digId=">  Ley CABA N° 1845/06 </a>
 
 Seguridad informática:
