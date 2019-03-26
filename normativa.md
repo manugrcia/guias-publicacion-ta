@@ -62,9 +62,9 @@ inciso a) Todos los órganos pertenecientes a la administración central, descen
 |	Asignación de Suplemento de Gabinete	|
 |	Otorgamiento de predios a asociaciones civiles o sujetos determinados	|
 |	Condonación de deuda	|
-|	Licitación Privada o Concurso Privado, Contratación Directa, Contratación Menor, aprobación de economías/demasías.	|
+|	Licitación Privada o Concurso Privado, Contratación Directa, Contratación Menor, aprobación de economías/demasías	|
 |	Proceso de compras(llamado, adjudicación)	|
-|	Cualquier acto dictado en el marco de una Licitación Pública adjudicada.	|
+|	Cualquier acto dictado en el marco de una Licitación Pública adjudicada	|
 |	Redeterminación de precios	|
 |	Aprobación de gastos/rendición de fondos  de caja chica común/especial	|
 |	Sanciones y penalidades aplicadas a los proveedores del Sistema Buenos Aires Compras (BAC)	|
