@@ -30,14 +30,14 @@ inciso a) Todos los órganos pertenecientes a la administración central, descen
 |	Ítem	|
 |		------------- |
 | Nombre del trámite o servicio; |
-| breve descripción del mismo; |
-| requisitos necesarios para realizarlo; |
-| protocolos de atención o pasos a seguir para realizarlo (dónde y en qué horario se realiza, si es necesario sacar turno previo o es de presentación espontánea, si se puede hacer online o por sistema de Tramitación a Distancia (TAD), quienes pueden/deben realizar dicho trámite, en caso de que haya alguna constancia/certificado/documento a retirar: cómo, cuándo y dónde se retira, cómo finaliza el trámite, etc.); |
-| datos de contacto del organismo responsable del trámite (nombre del organismo, dirección física, teléfono de contacto, mail de contacto, web del área); |
-| información sobre el pago del Trámite, de ser necesario: Arancel (si se trata de un trámite gratuito, se debe aclarar que es gratuito), y medios y formas de pago (online, si es con tarjetas de crédito, qué tarjetas y si se puede pagar en cuotas, hasta cuantas), si se puede pagar en Rapipago/pagofácil, etc.; |
-| si hay normativa u otros archivos importantes que las áreas quieran que los vecinos se descarguen de la guía, deben enviarse en formato PDF; |
+| Breve descripción del mismo; |
+| Requisitos necesarios para realizarlo; |
+| Protocolos de atención o pasos a seguir para realizarlo (dónde y en qué horario se realiza, si es necesario sacar turno previo o es de presentación espontánea, si se puede hacer online o por sistema de Tramitación a Distancia (TAD), quienes pueden/deben realizar dicho trámite, en caso de que haya alguna constancia/certificado/documento a retirar: cómo, cuándo y dónde se retira, cómo finaliza el trámite, etc.); |
+| Datos de contacto del organismo responsable del trámite (nombre del organismo, dirección física, teléfono de contacto, mail de contacto, web del área); |
+| Información sobre el pago del Trámite, de ser necesario: Arancel (si se trata de un trámite gratuito, se debe aclarar que es gratuito), y medios y formas de pago (online, si es con tarjetas de crédito, qué tarjetas y si se puede pagar en cuotas, hasta cuantas), si se puede pagar en Rapipago/pagofácil, etc.; |
+| Si hay normativa u otros archivos importantes que las áreas quieran que los vecinos se descarguen de la guía, deben enviarse en formato PDF; |
 | Datos adicionales importantes a destacar que las áreas consideren y que no estén contemplados dentro de lo anterior;|
-| información sobre vías de reclamos. |
+| Información sobre vías de reclamos. |
 
 </details>
 
