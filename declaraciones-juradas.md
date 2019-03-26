@@ -46,8 +46,6 @@ En concordancia con la [Ley N° 4895/13](https://www.buenosaires.gob.ar/areas/le
  El contenido de la declaración jurada patrimonial que será objeto de publicación en la página web oficial del Gobierno de la Ciudad Autónoma de Buenos Aires, deberá cumplir con lo dispuesto por el artículo N° 16 de la Ley N° 4895/13. Acorde a lo estipulado por la normativa en vigencia, la declaración jurada patrimonial de los sujetos comprendidos deberá contener los siguientes ítems informativos: 
 </p>
 
-<details><summary> Ver Listado de ítems a publicar </summary>
-<p>
 |	Ítem	|
 |		------------- |
 |	Bienes inmuebles, y las mejoras que se hayan realizado sobre los mismos. Deberá consignarse: valor, fecha de adquisición, y origen de los fondos aplicados a cada adquisición	|
@@ -63,8 +61,6 @@ En concordancia con la [Ley N° 4895/13](https://www.buenosaires.gob.ar/areas/le
 |	Monto de los bienes o fondos involucrados en los fideicomisos de los que participe como fideicomitente o fideicomisario o beneficiario	|
 |	Cualquier otro tipo de ingreso anual, especificando su origen	|
 |	Antecedentes laborales y profesionales de los últimos dos años, sean o no rentados, incluyendo los que realizare al momento de su designación de los funcionarios mencionados en el título i)) cuyo acceso a la función no sea un resultado directo del sufragio universal	|
-</p>
-</details>
 
 <h2 id="formato"> Formato </h2>
 <p>
