@@ -7,9 +7,6 @@
  <li><a href="#formato">Formato</a></li>
  <li><a href="#perio">Periodicidad de actualización</a></li>
  <li><a href="#ubicacion">Ubicación de la publicación</a></li>
- <li><a href="#compromisos">Compromisos de publicación</a></li>
- 
- 
 </ol>
  
 <h2 id="marco">Marco normativo</h2>  
