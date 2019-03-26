@@ -14,6 +14,8 @@ A continuación podrán encontrar los cronogramas de publicación bimestrales, h
 - **EJE TRÁMITES**: Actualización de todos los trámites del área.
 - **EJE INSTITUCIONAL**: Actualización de web Institucionales hasta nivel DG.
 
+## Fase de Seguimiento DGSOCAI
+
 ## agosto - septiembre
 				
 - **EJE CONTROL E INTEGRIDAD**: Publicación de DDJJ de funcionarios hasta nivel de Secretario.
