@@ -8,7 +8,7 @@ los ciudadanos y un compromiso de gobierno con la integridad de la gestión.
 
 Gracias por ser parte de esta tarea.
 
-A continuación, compartimos la lista de Guías de Publicación disponibles hasta la fecha.
+A continuación, compartimos el listado de Guías de Publicación disponibles hasta la fecha.
 
   - [Institucional](institucional.md)
   - [Declaraciones Juradas](declaraciones-juradas.md)
