@@ -14,7 +14,7 @@ A continuación, compartimos la lista de Guías de Publicación disponibles hast
   - [Compras y Contrataciones de Bienes y Servicios](compras-contrataciones-bienes-servicios.md)
   - [Concesiones](concesiones.md)
   - [Concursos de Personal](concursos.md)
-  - [Declaraciones Juradas] (declaraciones-juradas.md)
+  - [Declaraciones Juradas](declaraciones-juradas.md)
   - [Dictámenes Jurídicos e Informes Técnicos](dictamenes.md)
   - [Gestión](gestion.md)
   - [Habilitaciones](habilitaciones.md)
