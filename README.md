@@ -27,6 +27,6 @@ A continuación, compartimos el listado de Guías de Publicación disponibles ha
   - [Concesiones](concesiones.md)
   - [Dictámenes Jurídicos e Informes Técnicos](dictamenes.md)
 
-En [este](cronogramas-publicacion.md) link pueden consultar el cronorgama bimestral de publicación.
+En [este link](cronogramas-publicacion.md) pueden consultar el cronorgama bimestral de publicación.
 
 Por cualquier consulta o sugerencia pueden escribir a [transparencia@buenosaires.gob.ar](mailto:transparencia@buenosaires.gob.ar)
