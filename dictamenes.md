@@ -42,7 +42,7 @@ inciso a) Todos los órganos pertenecientes a la administración central, descen
 |		------------- |
 |	Dictámenes jurídicos de la Procuración General   |
 |Dictámenes jurídicos emitidos por otras áreas bajo delegación de la PG    |
-|Informes técnicos emitidos por la Dirección Legal y Técnica de cada Ministerio, vinculados a actos administrativos de alcance general.|
+|Informes técnicos emitidos por la Dirección Legal y Técnica de cada Ministerio, vinculados a actos administrativos de alcance general|
 
 
 
