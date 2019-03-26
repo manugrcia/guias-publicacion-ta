@@ -27,22 +27,19 @@ inciso a) Todos los órganos pertenecientes a la administración central, descen
 En concordancia con la [Ley N° 4895/13](https://www.buenosaires.gob.ar/areas/leg_tecnica/sin/normapop09.php?id=237252&qu=c&ft=0&cp=&rl=1&rf=0&im=&ui=0&printi=1&pelikan=1&sezion=&primera=0&mot_toda=&mot_frase=&mot_alguna=&digId=), los sujetos obligados comprendidos en el inciso m) del artículo 18, cuya declaración jurada patrimonial deberá publicarse en la página web oficial del Gobierno de la Ciudad Autónoma de Buenos Aires son: 
 </p>
 
-<details><summary> Ver Listado de ítems a publicar </summary>
-<p>
-- El Jefe/a y Vice-Jefe/a de Gobierno
-- Ministros, Secretarios, Subsecretarios, Directores Generales o equivalentes del Poder Ejecutivo y los titulares de los entes descentralizados
-- Miembros de las Juntas Comunales
-- Síndico General
-- Procurador General y sus adjuntos, los Directores Generales de la Procuración, el personal con categoría no inferior a director o equivalente del personal de dichos organismo
-- Los Directores, el Síndico, el Gerente General y Subgerente General del Banco de la Ciudad de Buenos Aires
-- Integrantes de comisiones de evaluación de ofertas o de adjudicación en licitaciones públicas o privadas de compra o contratación de bienes o servicios en que intervenga la Ciudad
-- Integrantes de los organismos de control internos del Gobierno de la Ciudad Autónoma de Buenos Aires, con categoría no inferior a la de Director General
-- Directivos, síndicos e integrantes de los directorios de los organismos descentralizados, entidades autárquicas, las empresas y sociedades del Estado
-- Jefe de la Policía de la Ciudad y los funcionarios policiales de la misma con rango superior a Comisario
-- Jefe del Cuerpo Bomberos de la Ciudad y los funcionarios integrantes del mismo con grado superior a Comandante
-
-</p>
-</details>
+|	Sujeto obligado	|
+|	------------- |
+|	El Jefe/a y Vice-Jefe/a de Gobierno	|
+|	Ministros, Secretarios, Subsecretarios, Directores Generales o equivalentes del Poder Ejecutivo y los titulares de los entes descentralizados	|
+|	Miembros de las Juntas Comunales	|
+|	Síndico General	|
+|	Procurador General y sus adjuntos, los Directores Generales de la Procuración, el personal con categoría no inferior a director o equivalente del personal de dichos organismo	|
+|	Los Directores, el Síndico, el Gerente General y Subgerente General del Banco de la Ciudad de Buenos Aires	|
+|	Integrantes de comisiones de evaluación de ofertas o de adjudicación en licitaciones públicas o privadas de compra o contratación de bienes o servicios en que intervenga la Ciudad	|
+|	Integrantes de los organismos de control internos del Gobierno de la Ciudad Autónoma de Buenos Aires, con categoría no inferior a la de Director General	|
+|	Directivos, síndicos e integrantes de los directorios de los organismos descentralizados, entidades autárquicas, las empresas y sociedades del Estado	|
+|	Jefe de la Policía de la Ciudad y los funcionarios policiales de la misma con rango superior a Comisario	|
+|	Jefe del Cuerpo Bomberos de la Ciudad y los funcionarios integrantes del mismo con grado superior a Comandante	|
 
 <h2 id="contenidos"> Contenidos mínimos de publicación </h2> 
 <p>
