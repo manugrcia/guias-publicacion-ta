@@ -1,5 +1,5 @@
 
-# Guía de publicación de Transparencia Activa
+# Guías de publicación de Transparencia Activa
       
 
 El propósito de este documento es darte herramientas para cumplir con las obligaciones de Transparencia Activa 
