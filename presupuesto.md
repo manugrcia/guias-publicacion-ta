@@ -12,7 +12,7 @@
 <h2 id="marco">Marco normativo</h2>  
 <p>
 Artículo 18: Plan de Transparencia Activa: Los sujetos obligados por el Artículo 3° incisos a), b), c), d), e), g)y h) deberán publicar en sus respectivas páginas web, de manera completa y actualizada y en lo posible en formatos abiertos y reutilizables, la siguiente información:
-</br>
+ 
 Inciso d) “El presupuesto asignado a cada área, programa o función, y el estado de ejecución actualizado en forma trimestral con el nivel de desagregación compatible con la presentación del proyecto de presupuesto”.
 
 </p>
