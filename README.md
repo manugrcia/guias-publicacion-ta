@@ -15,7 +15,7 @@ A continuación, compartimos la lista de Guías de Publicación disponibles hast
   - [Informes de Auditoría](informes-auditoria.md)
   - [Presupuesto](presupuesto.md)
   - [Nómina de autoridades y personal](nomina-personal.md)
-  - [Sueldos de Autoridades y Escala Salarial de Personal](recursos-humanos.md)
+  - [Sueldos de Autoridades y Escala Salarial de Personal](sueldos.md)
   - [Concursos de Personal](concursos.md)
   - [Compras y Contrataciones de Obra Pública](obra-publica.md)
   - [Compras y Contrataciones de Bienes y Servicios](compras-contrataciones-bienes-servicios.md)
