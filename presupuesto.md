@@ -35,8 +35,7 @@ inciso a) Todos los órganos pertenecientes a la administración central, descen
 </p>
 
 <h2 id="contenidos"> Contenidos mínimos de publicación </h2> 
-<details><summary> Ver Listado de ítems a publicar </summary>
-<p>
+
 | ítems |
 | ------- |
 |	Informe trimestral de ejecución presupuestaria	|
@@ -56,19 +55,15 @@ inciso a) Todos los órganos pertenecientes a la administración central, descen
 |	El informe de cierre realizado por la Auditoría General de la CABA	|
 |	Los informes del indicador local de transparencia presupuestaria realizado por la Auditoría General de la CABA.	|
 |	Cronograma de publicación de los informes antes mencionados.	|
- </p>
- </details>
 
 La información contemplada deberá presentarse con el siguiente nivel de desagregación:
-<ul>
-<li>Gasto por Carácter Institucional
-<li>Gasto por Clasificación Económica 
-<li>Gasto por Jurisdicción, Unidad Ejecutora y Programa
-<li>Gasto por Organismo
-<li>Gasto por Origen del Financiamiento
-<li>Recursos por Jurisdicción.
-</ul>
-</p>
+
+- Gasto por Carácter Institucional
+- Gasto por Clasificación Económica 
+- Gasto por Jurisdicción, Unidad Ejecutora y Programa
+- Gasto por Organismo
+- Gasto por Origen del Financiamiento
+- Recursos por Jurisdicción.
 
 
 <h2 id="formato"> Formato </h2>
