@@ -10,8 +10,21 @@ Gracias por ser parte de esta tarea.
 
 A continuación, compartimos la lista de Guías de Publicación disponibles hasta la fecha.
 
-
-            
+  - [Auditoría:](auditoria.md)
+  - Compras y Contrataciones: compras-contrataciones.md
+  - concesiones: concesiones.md
+  - concursos: concursos.md
+  - ddjj: ddjj.md
+  - dictamenes: dictamenes.md
+  - gestion: gestion.md
+  - habilitaciones: habilitaciones.md
+  - institucional: institucional.md
+  - nomina: nomina-personal.md
+  - normativa: normativa.md
+  - obra: obra-publica.md
+  - permisos: permisos.md
+  - presupuesto: presupuesto.md
+  - recursos: recursos-humanos.md
+  - sueldos: sueldos.md
+  - tramites: tramites-servicios.md       
   
-
-
