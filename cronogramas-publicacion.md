@@ -4,9 +4,21 @@ A continuación podrán encontrar los cronogramas de publicación bimestrales, h
 
 ## abril - mayo
 
-| EJE RRHH | EJE OBRA PÚBLICA | EJE PERMISOS |
-| -----	| -----	| ----- |
-| Publicación de Escalas salariales y Sueldos de funcionarios Completar información requerida de Concursos. | Completar todos los campos requeridos en PIG para actualizar dataset BA Obras (% de avance, fecha finalización, pliegos, estado) | Publicación de dataset de Habilitaciones en BA Data |
+- EJE RRHH: Publicación de Escalas salariales y Sueldos de funcionarios Completar información requerida de Concursos.
+- EJE OBRA PÚBLICA: Completar todos los campos requeridos en PIG para actualizar dataset BA Obras (% de avance, fecha finalización, pliegos, estado) | 
+- EJE PERMISOS: Publicación de dataset de Habilitaciones en BA Data
+
+
+
+
+
+
+
+
+
+
+
+
 
 | | EJE NORMATIVA | EJE TRÁMITES | EJE INSTITUCIONAL |
 | ----- | -----	| -----	| -----	|
