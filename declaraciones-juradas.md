@@ -1,6 +1,6 @@
 # Declaraciones Juradas 
 
-##Contenido del documento
+## Contenido del documento
 <ol>
  <li><a href="#marco">Marco normativo</a></li>
  <li><a href="#obligados">¿Quiénes están obligados a publicar esta información?</a></li>
