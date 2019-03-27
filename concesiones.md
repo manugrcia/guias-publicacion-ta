@@ -24,9 +24,10 @@ titulares, especificando nombre o razón social del/la titular; objeto de la con
 Artículo 3°.- Sujetos obligados: Serán sujetos obligados a brindar información pública según los términos de esta Ley:
 
 inciso a) Todos los órganos pertenecientes a la administración central, descentralizada, entes autárquicos u organismos interjurisdiccionales integrados por la Ciudad Autónoma de Buenos Aires.
-
-
-
+<p>Áreas clave para implementación de compromisos
+<ul>
+<li>DG Administración de Bienes y Concesiones - Ministerio de Economía y Finanzas</li>
+</ul>
 
 </p>
 
