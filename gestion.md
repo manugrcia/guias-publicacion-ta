@@ -58,7 +58,7 @@ inciso a) Todos los órganos pertenecientes a la administración central, descen
 
 <h2 id="formato"> Formato </h2>
 <p>
-Formato CSV o XML
+Formato CSV o XML. La carga de datos se realiza a través de la Plataforma Integral de Gestión (PIG).
 
 </p>
 <h2 id="perio"> Periodicidad de actualización</h2>
