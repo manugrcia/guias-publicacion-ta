@@ -23,6 +23,10 @@ Inciso m) “Declaraciones Juradas de funcionarios públicos de acuerdo a la Ley
 Artículo 3°.- Sujetos obligados: Serán sujetos obligados a brindar información pública según los términos de esta Ley:
 
 inciso a) Todos los órganos pertenecientes a la administración central, descentralizada, entes autárquicos u organismos interjurisdiccionales integrados por la Ciudad Autónoma de Buenos Aires.
+<p>Áreas clave para implementación de compromisos
+<ul>
+<li>Dirección de Ética en el Ejercicio de la Función Pública - Secretaría Legal y Técnica</li>
+</ul>
 
 En concordancia con la [Ley N° 4895/13](https://www.buenosaires.gob.ar/areas/leg_tecnica/sin/normapop09.php?id=237252&qu=c&ft=0&cp=&rl=1&rf=0&im=&ui=0&printi=1&pelikan=1&sezion=&primera=0&mot_toda=&mot_frase=&mot_alguna=&digId=), los sujetos obligados comprendidos en el inciso m) del artículo 18, cuya declaración jurada patrimonial deberá publicarse en la página web oficial del Gobierno de la Ciudad Autónoma de Buenos Aires son: 
 </p>
