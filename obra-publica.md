@@ -81,7 +81,8 @@ Cada proceso de compra efectuado por medio de los procedimientos antes mencionad
 
 <h2 id="formato"> Formato </h2>
 <p>
-Los contenidos deberán estar disponibles en formato abierto (XLS, XLSV, CSV) y PDF para el caso de los pliegos y documentos que contengan actos administrativos.
+Los contenidos deberán estar disponibles en formato abierto (XLS, XLSV, CSV) y PDF para el caso de los pliegos y documentos que contengan actos administrativos. La carga de datos se realiza a través de la Plataforma Integral de Gestión (PIG).
+
 </p>
 <h2 id="perio"> Periodicidad de actualización</h2>
 <p>Mensual</p>
