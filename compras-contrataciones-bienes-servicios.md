@@ -25,8 +25,10 @@ Inciso e) El listado de adquisiciones de bienes y servicios u obras públicas qu
 Artículo 3°.- Sujetos obligados: Serán sujetos obligados a brindar información pública según los términos de esta Ley:
 
 inciso a) Todos los órganos pertenecientes a la administración central, descentralizada, entes autárquicos u organismos interjurisdiccionales integrados por la Ciudad Autónoma de Buenos Aires.
-
-
+<p>Áreas clave para implementación de compromisos
+<ul>
+<li>DG Compras y Contrataciones - Ministerio de Economía y Finanzas</li>
+</ul>
 
 </p>
 
