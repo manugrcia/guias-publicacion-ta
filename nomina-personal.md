@@ -24,10 +24,11 @@ Artículo 3°.- Sujetos obligados: Serán sujetos obligados a brindar informaci�
 
 inciso a) Todos los órganos pertenecientes a la administración central, descentralizada, entes autárquicos u organismos interjurisdiccionales integrados por la Ciudad Autónoma de Buenos Aires.
 
-
-
+<p>Áreas clave para implementación de compromisos
+<ul>
+<li>Subsecretaría de Gestión de Recursos Humanos - Ministerio de Economía y Finanzas</li>
+</ul>
 </p>
-
 
 <h2 id="contenidos"> Contenidos mínimos de publicación </h2> 
 <p>La información sobre nómina de autoridades y personal deberá contener los siguientes datos:
