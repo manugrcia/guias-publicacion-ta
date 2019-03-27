@@ -27,7 +27,6 @@ inciso a) Todos los órganos pertenecientes a la administración central, descen
 <p>Áreas clave para implementación de compromisos
 <ul>
 <li>DG Oficina de Gestión Pública y Presupuesto - Ministerio de Economía y Finanzas</li>
-<li>DG Calidad Institucional y Gobierno Abierto - Secretaría Internacional y Relaciones Internacionales</li>
 </ul>
 </p>
 
