@@ -26,6 +26,8 @@ A continuación, compartimos el listado de Guías de Publicación disponibles ha
   - [Permisos de obra](permisos.md)
   - [Concesiones](concesiones.md)
   - [Dictámenes Jurídicos e Informes Técnicos](dictamenes.md)
+  
+# Cronograma de Publicación
 
 En este link [(click aquí)](cronogramas-publicacion.md) pueden consultar el cronorgama bimestral de publicación.
 
